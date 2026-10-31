@@ -1,0 +1,49 @@
+target_id: gaussian-source-historical-centre-monotone-pressure-startup
+search_date: 2026-10-28
+intended_contribution_unit: theorem
+claim:
+  exact_statement: |
+    Fix epsilon>0 and positive alpha, Delta, f, c_p, mu. Let q belong to
+    C^1([0,T]), q>=0, extended by zero before time zero. Use the fixed
+    Gaussian-source pressure and zero-SIF circular trial branch of the
+    manuscript. Let t_n in (0,T) be the first time at which p(0,t_n)=Delta/f.
+    Assume p_t(0,t)>=0 on [0,t_n], p_t(0,t_n)>0, and the positive trial
+    radius R(t) exists on (t_n,T]. Define R(t)=0 for 0<=t<=t_n.
+    Then every trial velocity is nonnegative for every interior radius
+    and every time in (t_n,T] if and only if the centre velocity C(t)
+    is nonnegative throughout (t_n,T]. Under these equivalent conditions,
+    every noncentral interior velocity and the edge-normalised velocity
+    is strictly positive, and R'(t)>0. Earlier tangential centre-velocity
+    zeros after birth are allowed. A sufficient practical startup condition
+    is that q is nondecreasing through first nucleation; no restriction on
+    later rate reversals is imposed.
+  exclusions:
+    - Does not cover general pressure-decreasing or cycling prebirth histories.
+    - Does not cover tangential nucleation with p_t(0,t_n)=0.
+    - Does not replace the historical centre criterion by an instantaneous test after a prior negative centre velocity.
+    - Does not determine post-locking pulse propagation or seismicity.
+    - Does not claim novelty of diagonal row scaling or generic positive Volterra inversion.
+source:
+  originating_reference: "Saez, Passelègue and Lecampion (2025), Science Advances 11 eadq0662, discussion after equation 24"
+  url: "https://francoispasselegue.github.io/FXP-Webpage/alexis2025.pdf"
+normalisation:
+  physical_source: "p_epsilon(r,t)=c_p integral_0^t q(s) exp[-r^2/(4 alpha (t-s+epsilon))]/(t-s+epsilon) ds"
+  unit_diagonal_kernel: "a(v,s)=K_R(v)(0,v-s+epsilon)/K_R(v)(0,epsilon) for R(v)>0; a(v,s)=epsilon/(v-s+epsilon) at R(v)=0"
+  latent_centre_history: "H(v)=integral_[0,v] a(v,s) dq(s); H=C/K_R(v)(0,epsilon) after birth; H=epsilon*p_t(0,v)/c_p before birth"
+  birth_expansion: "R(t)^2=[-3 p_t(0,t_n)/p_rr(0,t_n)](t-t_n)+o(t-t_n); p_rr(0,t_n)<0"
+aliases:
+  analysis: [nonconvolution_Volterra_equation, unit_diagonal_row_scaling, positive_resolvent, logarithmic_slope_order]
+  mathematical_physics: [Gaussian_injection_source, transverse_nucleation, first_locking, circular_shear_crack, unilateral_friction]
+known_invariants:
+  age_radius_order: "ell_R(u)=partial_u log K_R(0,u) increases in u and R, with ell_0(u)=-1/u"
+  positive_transfer: "The unit-diagonal backward Volterra equation has bounded nonnegative kernel and strictly positive forcing for each noncentral or edge output."
+  structural_identity: "Normalisation extends the same Dawson-kernel transfer through an entire zero-radius interval; it does not create a new abstract Volterra object."
+search_constraints:
+  primary_sources_only_for_technical_claims: true
+  databases_or_corpora: [existing_primary_literature_gate, publisher_primary_papers, author_manuscripts]
+gate_status: "BOUNDED UNCERTAINTY: final formula-level and primary-source checks completed in extension_novelty_audit.md; no exact geological predecessor found within that boundary; generic inverse positivity and row scaling are classical."
+gate_references:
+  - "target_arbitrary_history.yaml and extension_novelty_audit.md"
+  - "Jurkat (1954), Questions of signs in power series"
+  - "Baricz, Vesti and Vuorinen (2011), DOI 10.2478/v10062-011-0009-2"
+  - "Gripenberg (1980), On Volterra equations of the first kind, DOI 10.1007/BF01702311"

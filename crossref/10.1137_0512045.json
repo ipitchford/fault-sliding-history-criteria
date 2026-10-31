@@ -1,0 +1,252 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     18
+    ]
+   ],
+   "date-time": "2026-10-18T23:05:38Z",
+   "timestamp": 1792364738632,
+   "version": "4.4.0"
+  },
+  "reference-count": 15,
+  "publisher": "Society for Industrial & Applied Mathematics (SIAM)",
+  "issue": "4",
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "SIAM J. Math. Anal."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     1981,
+     7
+    ]
+   ]
+  },
+  "DOI": "10.1137/0512045",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2005,
+     2,
+     27
+    ]
+   ],
+   "date-time": "2005-02-27T02:08:55Z",
+   "timestamp": 1109470135000
+  },
+  "page": "514-535",
+  "source": "Crossref",
+  "is-referenced-by-count": 142,
+  "title": [
+   "Asymptotic Behavior of Solutions of Nonlinear Volterra Equations with Completely Positive Kernels"
+  ],
+  "prefix": "10.1137",
+  "volume": "12",
+  "author": [
+   {
+    "given": "Ph.",
+    "family": "Clément",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "J. A.",
+    "family": "Nohel",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "351",
+  "published-online": {
+   "date-parts": [
+    [
+     2012,
+     2,
+     17
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "R1",
+    "unstructured": "Ph. Benilan, Masters Thesis,  Equations d'evolution dans une espace de Banach quelconque et applications, Thèse de Doctorat d'Etat, Université de Paris Sud,  1972"
+   },
+   {
+    "key": "R2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF02762044"
+   },
+   {
+    "key": "R3",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1137/0510035"
+   },
+   {
+    "key": "R4",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF02764657"
+   },
+   {
+    "key": "R5",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF02761170"
+   },
+   {
+    "key": "R6",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF02760883"
+   },
+   {
+    "key": "R7",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0022-0396(78)90007-4"
+   },
+   {
+    "key": "R8",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1090/S0002-9947-1977-0433162-2"
+   },
+   {
+    "key": "R9",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1137/0130050"
+   },
+   {
+    "key": "R9A",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1137/0123008"
+   },
+   {
+    "key": "R9B",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1090/qam/478939"
+   },
+   {
+    "key": "R10",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0022-247X(68)90176-5"
+   },
+   {
+    "key": "R11",
+    "volume-title": "Nonlinear Volterra integral equations",
+    "author": "Miller Richard K.",
+    "year": "1971"
+   },
+   {
+    "key": "R12",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1090/qam/295683"
+   },
+   {
+    "key": "R13",
+    "volume-title": "The Laplace Transform",
+    "author": "Widder D. V.",
+    "year": "1946"
+   }
+  ],
+  "container-title": [
+   "SIAM Journal on Mathematical Analysis"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://epubs.siam.org/doi/pdf/10.1137/0512045",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2026,
+     8,
+     21
+    ]
+   ],
+   "date-time": "2026-08-21T13:41:56Z",
+   "timestamp": 1787319716000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://epubs.siam.org/doi/10.1137/0512045"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     1981,
+     7
+    ]
+   ]
+  },
+  "references-count": 15,
+  "journal-issue": {
+   "issue": "4",
+   "published-print": {
+    "date-parts": [
+     [
+      1981,
+      7
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "10.1137/0512045"
+  ],
+  "URL": "https://doi.org/10.1137/0512045",
+  "relation": {},
+  "ISSN": [
+   "0036-1410",
+   "1095-7154"
+  ],
+  "issn-type": [
+   {
+    "value": "0036-1410",
+    "type": "print"
+   },
+   {
+    "value": "1095-7154",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     1981,
+     7
+    ]
+   ]
+  }
+ }
+}

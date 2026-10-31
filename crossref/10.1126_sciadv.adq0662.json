@@ -1,0 +1,684 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     7,
+     9
+    ]
+   ],
+   "date-time": "2026-07-09T06:22:56Z",
+   "timestamp": 1783578176167,
+   "version": "3.55.0"
+  },
+  "reference-count": 85,
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "issue": "19",
+  "content-domain": {
+   "domain": [
+    "www.science.org"
+   ],
+   "crossmark-restriction": true
+  },
+  "short-container-title": [
+   "Sci. Adv."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     5,
+     9
+    ]
+   ]
+  },
+  "DOI": "10.1126/sciadv.adq0662",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2025,
+     5,
+     7
+    ]
+   ],
+   "date-time": "2025-05-07T17:58:56Z",
+   "timestamp": 1746640736000
+  },
+  "update-policy": "https://doi.org/10.34133/aaas_crossmark",
+  "source": "Crossref",
+  "is-referenced-by-count": 13,
+  "title": [
+   "Maximum size and magnitude of injection-induced slow slip events"
+  ],
+  "prefix": "10.1126",
+  "volume": "11",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-1154-8453",
+    "authenticated-orcid": true,
+    "given": "Alexis",
+    "family": "Sáez",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Geo-Energy Lab - Gaznat Chair, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland."
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-4217-9817",
+    "authenticated-orcid": true,
+    "given": "François",
+    "family": "Passelègue",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Géoazur, Université Côte d’Azur, Nice, France."
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-9201-6592",
+    "authenticated-orcid": true,
+    "given": "Brice",
+    "family": "Lecampion",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Geo-Energy Lab - Gaznat Chair, École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland."
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "221",
+  "reference": [
+   {
+    "key": "e_1_3_2_2_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.172.3981.333"
+   },
+   {
+    "key": "e_1_3_2_3_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0148-9062(94)90902-4"
+   },
+   {
+    "key": "e_1_3_2_4_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s000240050093"
+   },
+   {
+    "key": "e_1_3_2_5_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1111/j.1365-246X.2006.03325.x"
+   },
+   {
+    "key": "e_1_3_2_6_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1111/j.1365-246X.2011.05108.x"
+   },
+   {
+    "key": "e_1_3_2_7_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aab0476"
+   },
+   {
+    "key": "e_1_3_2_8_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.epsl.2015.03.054"
+   },
+   {
+    "key": "e_1_3_2_9_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/sciadv.aau4065"
+   },
+   {
+    "key": "e_1_3_2_10_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2021JB023335"
+   },
+   {
+    "key": "e_1_3_2_11_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41598-022-06129-3"
+   },
+   {
+    "key": "e_1_3_2_12_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2021JB023157"
+   },
+   {
+    "key": "e_1_3_2_13_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.geothermics.2021.102238"
+   },
+   {
+    "key": "e_1_3_2_14_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2021GL097330"
+   },
+   {
+    "key": "e_1_3_2_15_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1785/gssrl.80.5.784"
+   },
+   {
+    "key": "e_1_3_2_16_2",
+    "first-page": "1844",
+    "article-title": "Triggering of the Pohang, Korea, earthquake (Mw 5.5) by enhanced geothermal system stimulation",
+    "volume": "90",
+    "author": "Ellsworth W.",
+    "year": "2019",
+    "unstructured": "W. Ellsworth, D. Giardini, J. Townend, S. Ge, T. Shimamoto, Triggering of the Pohang, Korea, earthquake (Mw 5.5) by enhanced geothermal system stimulation. Seismol. Res. Lett. 90, 1844–1858 (2019).",
+    "journal-title": "Seismol. Res. Lett."
+   },
+   {
+    "key": "e_1_3_2_17_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.2118/72060-PA"
+   },
+   {
+    "key": "e_1_3_2_18_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.engfailanal.2019.01.074"
+   },
+   {
+    "key": "e_1_3_2_19_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.ijggc.2010.08.005"
+   },
+   {
+    "key": "e_1_3_2_20_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/ghg.1511"
+   },
+   {
+    "key": "e_1_3_2_21_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aaw7354"
+   },
+   {
+    "key": "e_1_3_2_22_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/sciadv.aav7172"
+   },
+   {
+    "key": "e_1_3_2_23_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2020GL092038"
+   },
+   {
+    "key": "e_1_3_2_24_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jmps.2021.104754"
+   },
+   {
+    "key": "e_1_3_2_25_2",
+    "first-page": "20220810",
+    "article-title": "Post-injection aseismic slip as a mechanism for the delayed triggering of seismicity",
+    "volume": "479",
+    "author": "Sáez A.",
+    "year": "2023",
+    "unstructured": "A. Sáez, B. Lecampion, Post-injection aseismic slip as a mechanism for the delayed triggering of seismicity. Proc. R. Soc. A Math. Phys. Eng. 479, 20220810 (2023).",
+    "journal-title": "Proc. R. Soc. A Math. Phys. Eng."
+   },
+   {
+    "key": "e_1_3_2_26_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jmps.2023.105506"
+   },
+   {
+    "key": "e_1_3_2_27_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2007GL031615"
+   },
+   {
+    "key": "e_1_3_2_28_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1190/geo2010-0349.1"
+   },
+   {
+    "key": "e_1_3_2_29_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2013JB010597"
+   },
+   {
+    "key": "e_1_3_2_30_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1785/0220150263"
+   },
+   {
+    "key": "e_1_3_2_31_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2016JB012818"
+   },
+   {
+    "key": "e_1_3_2_32_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2017GL075258"
+   },
+   {
+    "key": "e_1_3_2_33_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/sciadv.aap7528"
+   },
+   {
+    "key": "e_1_3_2_34_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41598-019-41306-x"
+   },
+   {
+    "key": "e_1_3_2_35_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2019GL086185"
+   },
+   {
+    "key": "e_1_3_2_36_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41467-020-20700-4"
+   },
+   {
+    "key": "e_1_3_2_37_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41467-021-26679-w"
+   },
+   {
+    "key": "e_1_3_2_38_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41586-021-03601-4"
+   },
+   {
+    "key": "e_1_3_2_39_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB077i020p03796"
+   },
+   {
+    "key": "e_1_3_2_40_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1130/0091-7613(1996)024<1025:FZAAPS>2.3.CO;2"
+   },
+   {
+    "key": "e_1_3_2_41_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jsg.2010.06.009"
+   },
+   {
+    "key": "e_1_3_2_42_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/nag.2405"
+   },
+   {
+    "key": "e_1_3_2_43_2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "E. Detournay A. Cheng “Fundamentals of poroelasticity” in Analysis and Design Methods (Elsevier 1993) chap. 5 pp. 113–171.",
+    "DOI": "10.1016/B978-0-08-040615-2.50011-3"
+   },
+   {
+    "key": "e_1_3_2_44_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/WR026i007p01631"
+   },
+   {
+    "key": "e_1_3_2_45_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2012JB009209"
+   },
+   {
+    "key": "e_1_3_2_46_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s00603-023-03249-8"
+   },
+   {
+    "key": "e_1_3_2_47_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2003GL018987"
+   },
+   {
+    "key": "e_1_3_2_48_2",
+    "first-page": "1073",
+    "article-title": "Theoretical basis of some empirical relations in seismology",
+    "volume": "65",
+    "author": "Kanamori H.",
+    "year": "1975",
+    "unstructured": "H. Kanamori, D. L. Anderson, Theoretical basis of some empirical relations in seismology. Bull. Seismol. Soc. Am. 65, 1073–1095 (1975).",
+    "journal-title": "Bull. Seismol. Soc. Am."
+   },
+   {
+    "key": "e_1_3_2_49_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/S0305004100026736"
+   },
+   {
+    "key": "e_1_3_2_50_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB084iB05p02348"
+   },
+   {
+    "key": "e_1_3_2_51_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41467-020-18937-0"
+   },
+   {
+    "key": "e_1_3_2_52_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2022JB024371"
+   },
+   {
+    "key": "e_1_3_2_53_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1093/gji/ggw490"
+   },
+   {
+    "key": "e_1_3_2_54_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2015JB012633"
+   },
+   {
+    "key": "e_1_3_2_55_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2017JB014535"
+   },
+   {
+    "key": "e_1_3_2_56_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2010JB007788"
+   },
+   {
+    "key": "e_1_3_2_57_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2010JB007665"
+   },
+   {
+    "key": "e_1_3_2_58_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jhydrol.2019.124383"
+   },
+   {
+    "key": "e_1_3_2_59_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2006GL026889"
+   },
+   {
+    "key": "e_1_3_2_60_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.1237237"
+   },
+   {
+    "key": "e_1_3_2_61_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/98WR01863"
+   },
+   {
+    "key": "e_1_3_2_62_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1093/gji/ggaa446"
+   },
+   {
+    "key": "e_1_3_2_63_2",
+    "article-title": "Permeability creation and damage due to massive fluid injections into granite at 3.5 km at Soultz: 1. Borehole observations",
+    "volume": "110",
+    "author": "Evans K. F.",
+    "year": "2005",
+    "unstructured": "K. F. Evans, A. Genter, J. Sausse, Permeability creation and damage due to massive fluid injections into granite at 3.5 km at Soultz: 1. Borehole observations. J. Geophys. Res. Solid Earth 110, doi.org/10.1029/2004JB003168 (2005).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "e_1_3_2_64_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1111/j.1365-246X.2004.02474.x"
+   },
+   {
+    "key": "e_1_3_2_65_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2018GL078422"
+   },
+   {
+    "key": "e_1_3_2_66_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2015GL063093"
+   },
+   {
+    "key": "e_1_3_2_67_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1146/annurev-fluid-010814-014736"
+   },
+   {
+    "key": "e_1_3_2_68_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1146/annurev.earth.26.1.643"
+   },
+   {
+    "key": "e_1_3_2_69_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2018JB016636"
+   },
+   {
+    "key": "e_1_3_2_70_2",
+    "first-page": "20230255",
+    "article-title": "Fluid-driven aseismic fault slip with permeability enhancement and dilatancy",
+    "volume": "382",
+    "author": "Dunham E. M.",
+    "year": "2024",
+    "unstructured": "E. M. Dunham, Fluid-driven aseismic fault slip with permeability enhancement and dilatancy. Philos. Transact. A Math. Phys. Eng. Sci. 382, 20230255 (2024).",
+    "journal-title": "Philos. Transact. A Math. Phys. Eng. Sci."
+   },
+   {
+    "key": "e_1_3_2_71_2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "S. A. Shapiro Fluid-Induced Seismicity (Cambridge Univ. Press 2015).",
+    "DOI": "10.1017/CBO9781139051132"
+   },
+   {
+    "key": "e_1_3_2_72_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aat5449"
+   },
+   {
+    "key": "e_1_3_2_73_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2022JB024693"
+   },
+   {
+    "key": "e_1_3_2_74_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2021JB022933"
+   },
+   {
+    "key": "e_1_3_2_75_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.epsl.2018.04.062"
+   },
+   {
+    "key": "e_1_3_2_76_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.5047/eps.2010.11.003"
+   },
+   {
+    "key": "e_1_3_2_77_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41561-018-0090-z"
+   },
+   {
+    "key": "e_1_3_2_78_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41561-019-0367-x"
+   },
+   {
+    "key": "e_1_3_2_79_2",
+    "unstructured": "H. Carslaw J. Jaeger Conduction of Heat in Solids (Clarendon Press ed. 2 1959)."
+   },
+   {
+    "key": "e_1_3_2_80_2",
+    "unstructured": "K. Aki P. Richards Quantitative Seismology. (University Science Books ed. 2 2002)."
+   },
+   {
+    "key": "e_1_3_2_81_2",
+    "unstructured": "I. Sneddon Fourier Transforms: International Series in Pure and Applied Mathematics (McGraw-Hill 1951)."
+   },
+   {
+    "key": "e_1_3_2_82_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1190/1.3353727"
+   },
+   {
+    "key": "e_1_3_2_83_2",
+    "first-page": "20200129",
+    "article-title": "Fracture mechanics of rate-and-state faults and fluid injection induced slip",
+    "volume": "379",
+    "author": "Garagash D.",
+    "year": "2021",
+    "unstructured": "D. Garagash, Fracture mechanics of rate-and-state faults and fluid injection induced slip. Philos. Transact. A Math. Phys. Eng. Sci. 379, 20200129 (2021).",
+    "journal-title": "Philos. Transact. A Math. Phys. Eng. Sci."
+   },
+   {
+    "key": "e_1_3_2_84_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/S0065-2156(08)70121-2"
+   },
+   {
+    "key": "e_1_3_2_85_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1146/annurev-earth-071822-100304"
+   },
+   {
+    "key": "e_1_3_2_86_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.geothermics.2016.11.001"
+   }
+  ],
+  "container-title": [
+   "Science Advances"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://www.science.org/doi/pdf/10.1126/sciadv.adq0662",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2025,
+     5,
+     7
+    ]
+   ],
+   "date-time": "2025-05-07T18:00:49Z",
+   "timestamp": 1746640849000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.science.org/doi/10.1126/sciadv.adq0662"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     5,
+     9
+    ]
+   ]
+  },
+  "references-count": 85,
+  "journal-issue": {
+   "issue": "19",
+   "published-print": {
+    "date-parts": [
+     [
+      2025,
+      5,
+      9
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "10.1126/sciadv.adq0662"
+  ],
+  "URL": "https://doi.org/10.1126/sciadv.adq0662",
+  "relation": {},
+  "ISSN": [
+   "2375-2548"
+  ],
+  "issn-type": [
+   {
+    "value": "2375-2548",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2025,
+     5,
+     9
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "2024-08-01",
+    "order": 0,
+    "name": "received",
+    "label": "Received",
+    "group": {
+     "name": "publication_history",
+     "label": "Publication History"
+    }
+   },
+   {
+    "value": "2025-04-02",
+    "order": 2,
+    "name": "accepted",
+    "label": "Accepted",
+    "group": {
+     "name": "publication_history",
+     "label": "Publication History"
+    }
+   },
+   {
+    "value": "2025-05-07",
+    "order": 3,
+    "name": "published",
+    "label": "Published",
+    "group": {
+     "name": "publication_history",
+     "label": "Publication History"
+    }
+   }
+  ],
+  "article-number": "eadq0662"
+ }
+}

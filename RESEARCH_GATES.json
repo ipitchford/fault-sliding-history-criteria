@@ -1,0 +1,180 @@
+{
+ "schemaVersion": "1.0",
+ "provenance": "Compiled 31 October 2026 for release 0.1.0-candidate from the dated bounded prior-art audits of 28 October 2026, the round-1 domain and perspective reviews and the 31 October reference retrieval. It documents the scrutiny performed, not historical priority. No new search was run at release preparation.",
+ "contributionMap": [
+  {
+   "claim": "Centre-relative age order of the circular Dawson-function velocity kernel and the instantaneous criterion for single-peaked rates.",
+   "unit": "statement",
+   "paperLocation": "Lemma 2, Theorem 1",
+   "searches": [
+    {
+     "date": "2026-10-28",
+     "corpus": "two live web search engines, publisher pages, arXiv, author manuscripts, an EPFL thesis (development reports novelty_report.md, geomorphology_scout/)",
+     "query": "fluid injection aseismic slip crack-like to pulse-like transition; locking front; back front; centre locking post-injection; Riemann-Liouville half derivative injection; Dawson function crack kernel; Abel average pressure"
+    },
+    {
+     "date": "2026-10-31",
+     "corpus": "api.crossref.org, DataCite",
+     "query": "Crossref/DataCite records for every bibliography entry added in revision (Garagash-Germanovich, Bhattacharya-Viesca, Viesca 2021, Sáez-Lecampion 2024, Friedman, Gripenberg, Clément-Nohel, Gripenberg-Londen-Staffans, Alghannam-Juanes, Sneddon, Sáez et al. 2022)"
+    }
+   ],
+   "closestPriorWork": "Sáez and Lecampion 2023 (immediate centre locking at point-source shut-in, numerical); Yang and Tian 2019 (monotonicity rules for Laplace-transform ratios)",
+   "verdict": "new-in-bounded-search"
+  },
+  {
+   "claim": "Historical criteria for multi-peak and stepped rates; radius existence; centre-first loss.",
+   "unit": "statement",
+   "paperLocation": "Theorems A, B, G; Proposition 4.1",
+   "searches": [
+    {
+     "date": "2026-10-28",
+     "corpus": "two live web search engines, publisher pages, arXiv, author manuscripts, an EPFL thesis (development reports novelty_report.md, geomorphology_scout/)",
+     "query": "fluid injection aseismic slip crack-like to pulse-like transition; locking front; back front; centre locking post-injection; Riemann-Liouville half derivative injection; Dawson function crack kernel; Abel average pressure"
+    },
+    {
+     "date": "2026-10-28",
+     "corpus": "web search, publisher pages, arXiv (extension_novelty_audit.md)",
+     "query": "positive resolvent Volterra log-convex kernel; Jurkat quotient sign criterion; Kaluza sign; arbitrary-history positivity transfer; moving-radius crack Volterra"
+    },
+    {
+     "date": "2026-10-31",
+     "corpus": "api.crossref.org, DataCite",
+     "query": "Crossref/DataCite records for every bibliography entry added in revision (Garagash-Germanovich, Bhattacharya-Viesca, Viesca 2021, Sáez-Lecampion 2024, Friedman, Gripenberg, Clément-Nohel, Gripenberg-Londen-Staffans, Alghannam-Juanes, Sneddon, Sáez et al. 2022)"
+    }
+   ],
+   "closestPriorWork": "Classical positivity of Volterra operators with log-convex kernels (Friedman 1963; Gripenberg 1978; Clément and Nohel 1981; Gripenberg, Londen and Staffans 1990), cited as background",
+   "verdict": "new-in-bounded-search"
+  },
+  {
+   "claim": "Finite-radius quantification and schedule consequences (two-term criterion, shut-in deadline, taper corollary, drop tolerance).",
+   "unit": "statement",
+   "paperLocation": "Sections 5, 7, 8",
+   "searches": [
+    {
+     "date": "2026-10-28",
+     "corpus": "two live web search engines, publisher pages, arXiv, author manuscripts, an EPFL thesis (development reports novelty_report.md, geomorphology_scout/)",
+     "query": "fluid injection aseismic slip crack-like to pulse-like transition; locking front; back front; centre locking post-injection; Riemann-Liouville half derivative injection; Dawson function crack kernel; Abel average pressure"
+    },
+    {
+     "date": "2026-10-31",
+     "corpus": "api.crossref.org, DataCite",
+     "query": "Crossref/DataCite records for every bibliography entry added in revision (Garagash-Germanovich, Bhattacharya-Viesca, Viesca 2021, Sáez-Lecampion 2024, Friedman, Gripenberg, Clément-Nohel, Gripenberg-Londen-Staffans, Alghannam-Juanes, Sneddon, Sáez et al. 2022)"
+    }
+   ],
+   "closestPriorWork": "Sáez et al. 2025 (volume laws), Jacquey and Viesca 2023 (arrest), Viesca 2025 (constant-rate asymptotics)",
+   "verdict": "new-in-bounded-search"
+  },
+  {
+   "claim": "Model, radius condition, circular inversion, inner-limit kernel and arcsine continuation.",
+   "unit": "method",
+   "paperLocation": "Section 2, Sections 7.1 and 8.1",
+   "searches": [
+    {
+     "date": "2026-10-31",
+     "corpus": "api.crossref.org, DataCite",
+     "query": "Crossref/DataCite records for every bibliography entry added in revision (Garagash-Germanovich, Bhattacharya-Viesca, Viesca 2021, Sáez-Lecampion 2024, Friedman, Gripenberg, Clément-Nohel, Gripenberg-Londen-Staffans, Alghannam-Juanes, Sneddon, Sáez et al. 2022)"
+    }
+   ],
+   "closestPriorWork": "Sáez, Lecampion, Bhattacharya and Viesca 2022; Sneddon 1946; Viesca 2025; Gorenflo and Vessella 1991 (Abel inversion); Lévy arcsine law",
+   "verdict": "known-cited"
+  }
+ ],
+ "sourcesReadInFull": [
+  {
+   "citation": "Sáez, Passelègue and Lecampion, Science Advances 11, eadq0662 (2025), doi:10.1126/sciadv.adq0662",
+   "usedFor": "Volume laws and the open crack-to-pulse question",
+   "readWhat": "Full author PDF",
+   "date": "2026-10-28",
+   "evidenceLocator": "literature_audit.md; paper Sections 1.1, 10.1"
+  },
+  {
+   "citation": "Sáez and Lecampion, Proc. R. Soc. A 479, 20220810 (2023), doi:10.1098/rspa.2022.0810",
+   "usedFor": "Post-injection centre locking and slip pulse",
+   "readWhat": "Full arXiv preprint",
+   "date": "2026-10-28",
+   "evidenceLocator": "literature_audit.md; paper Section 10.1"
+  },
+  {
+   "citation": "Viesca, J. Fluid Mech. 1019, A27 (2025), doi:10.1017/jfm.2025.10593",
+   "usedFor": "Constant-rate inner solution and Bessel kernel",
+   "readWhat": "Accepted preprint v3",
+   "date": "2026-10-28",
+   "evidenceLocator": "literature_audit.md; paper Section 7.1"
+  },
+  {
+   "citation": "Jacquey and Viesca, Geophys. Res. Lett. 50, e2022GL101228 (2023), doi:10.1029/2022GL101228",
+   "usedFor": "Nucleation and arrest; plane-strain constant-pressure case",
+   "readWhat": "Full author PDF",
+   "date": "2026-10-28",
+   "evidenceLocator": "literature_audit.md; paper Section 10.1"
+  }
+ ],
+ "limitationTriage": [
+  {
+   "limitation": "Priority holds only within a bounded search.",
+   "closingQuestion": "Has an exact centre-first or history criterion for the circular fault appeared earlier?",
+   "triedOrSearched": "Web engines, publisher pages, arXiv, author manuscripts, 28 October 2026; positioning checked by the round-1 domain review.",
+   "estimatedCost": "days",
+   "decision": "OPEN",
+   "cheap": false,
+   "reasonOpen": "Exhaustive search out of scope; disclosed."
+  },
+  {
+   "limitation": "Gaussian histories with decreasing centre pressure before nucleation.",
+   "closingQuestion": "Does Theorem G hold without the latent-forcing condition?",
+   "triedOrSearched": "Section 9 examples; proof fails at the positive transfer of Appendix C.",
+   "estimatedCost": "weeks",
+   "decision": "OPEN",
+   "cheap": false,
+   "reasonOpen": "New research; stated in Section 10.4."
+  },
+  {
+   "limitation": "Numerical constants not interval-certified.",
+   "closingQuestion": "Certify s* and c_D by interval arithmetic.",
+   "triedOrSearched": "Grid with floating-point allowance and independent high-precision evaluation (constants_and_two_term.py).",
+   "estimatedCost": "hours",
+   "decision": "OPEN",
+   "cheap": true,
+   "reasonOpen": "Bounds hold with margin; certification left for a later version and stated in Appendix D.2.",
+   "whyNotClosedNow": "Interval certification of two scalar constants is a new computation; the publication brief excludes new research during release, the floating-point margins are explicit, and the paper states the status in Appendix D.2."
+  },
+  {
+   "limitation": "Nonzero Poisson ratio, rate-and-state friction, fracture energy.",
+   "closingQuestion": "Extend beyond the scalar operator?",
+   "triedOrSearched": "Not attempted.",
+   "estimatedCost": "weeks",
+   "decision": "OPEN",
+   "cheap": false,
+   "reasonOpen": "New research; proofs use the scalar operator and axisymmetry."
+  },
+  {
+   "limitation": "Unrefereed; no formalisation.",
+   "closingQuestion": "External specialist review.",
+   "triedOrSearched": "Internal AI-assisted review only.",
+   "estimatedCost": "weeks",
+   "decision": "OPEN",
+   "cheap": false,
+   "reasonOpen": "Out of scope for this release."
+  }
+ ],
+ "extensionScout": {
+  "by": "Internal AI-assisted reviewers and the editor, 31 October 2026",
+  "date": "2026-10-31",
+  "proposals": [
+   "Shut-in persistence bound",
+   "Two-term finite-radius criterion",
+   "Regimes and dimensional example",
+   "Rate jumps",
+   "Near-threshold numerical tests",
+   "Gaussian-mixture sources"
+  ],
+  "actions": [
+   "Proposition 8.2 added",
+   "Proposition 7.3 added; taper formula (54) as approximation",
+   "Sections 5.1, 8.4 and Table 2 added; Corollary 8.4",
+   "Theorems A and G extended to jumps",
+   "Section 9.3 added",
+   "Proposition 3.3 added with annular counterexample"
+  ]
+ }
+}

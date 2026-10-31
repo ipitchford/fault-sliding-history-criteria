@@ -1,0 +1,46 @@
+target_id: arbitrary-history-positive-transfer
+status: exploratory-not-part-of-reviewed-manuscript
+search_date: 2026-10-28
+intended_contribution_units:
+  - application of classical Volterra positivity to the finite-radius fault kernel
+  - two-scalar arbitrary-history criterion for the point-source model
+fixed_positive_radius_claim: >
+  For R,alpha,epsilon>0 and 0<=r<R, the ratio of Laplace transforms of
+  K_R(r,u+epsilon) and K_R(0,u+epsilon) is the Laplace transform of a
+  nonnegative finite measure. The point-source epsilon=0 statement is a
+  limit. No novelty is claimed for a generic log-convex deconvolution theorem.
+nonstationary_claim: >
+  For a continuous nondecreasing prescribed radius R(t)>0, a(t,s)=
+  K_R(t)(0,t-s+epsilon), b(t,s)=K_R(t)(r,t-s+epsilon), epsilon>0,
+  has a nonnegative causal transfer b(t,s)=c(t)a(t,s)+
+  integral_s^t h(t,v)a(v,s)dv, with c(t)=b(t,t)/a(t,t).
+physical_baseline_claim: >
+  For the point-source model with arbitrary nonnegative C1 rate q,
+  q(0+)>0, a positive full-sliding radius branch is admissible throughout
+  an interval exactly when centre velocity is nonnegative and R is
+  nondecreasing throughout that interval, subject to the stated regularity.
+exclusions:
+  - No unconditional Gaussian pre-nucleation history theorem.
+  - No unconditional centre-only theorem after earlier tangential centre zeros.
+  - No new abstract Volterra or Kaluza/Jurkat positivity principle.
+fingerprints:
+  centre_kernel: K_R(0,u)=2*sqrt(alpha/u)*G(R/(2*sqrt(alpha*u)))
+  sine_integral_form: K_R(0,u)=2*alpha*integral_0^infinity exp(-alpha*u*k^2)*Si(k*R)dk
+  centre_log_slope: d_u log(K_R(0,u))=-(1+D(z)/G(z))/(2*u)
+  z: R/(2*sqrt(alpha*u))
+  transfer_equation: >
+    h(t,s)a(s,s)=a(t,s)*partial_age(b(t,s)/a(t,s))+
+    integral_s^t h(t,v)a(v,s)[l(t,s)-l(v,s)]dv,
+    where l(t,s)=partial_age log a(t,s).
+  finite_object_instances: not applicable; continuous kernels
+aliases:
+  analysis: [Volterra comparison, resolvent positivity, log-convex convolution kernel]
+  probability: [nonnegative causal transfer, subprobability measure, completely monotone kernel]
+  combinatorics: [Kaluza reciprocal series criterion, Jurkat quotient criterion]
+  physics: [transient circular fault, source-history locking, irreversible slip]
+  control: [positive input-output system, triangular inverse sign]
+novelty_status: >
+  Generic discrete quotient positivity collides with Jurkat 1954 as reproduced
+  by Baricz, Vesti and Vuorinen 2011. Continuous positive-resolvent machinery
+  is established. The exact geological application remains under the bounded
+  novelty audit coordinated with geomorphology_scout.

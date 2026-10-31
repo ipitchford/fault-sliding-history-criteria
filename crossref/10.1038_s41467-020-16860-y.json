@@ -1,0 +1,869 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     29
+    ]
+   ],
+   "date-time": "2026-09-29T00:28:50Z",
+   "timestamp": 1790641730500,
+   "version": "4.1.0"
+  },
+  "reference-count": 55,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2020,
+       6,
+       16
+      ]
+     ],
+     "date-time": "2020-06-16T00:00:00Z",
+     "timestamp": 1592265600000
+    },
+    "content-version": "tdm",
+    "delay-in-days": 0,
+    "URL": "https://creativecommons.org/licenses/by/4.0"
+   },
+   {
+    "start": {
+     "date-parts": [
+      [
+       2020,
+       6,
+       16
+      ]
+     ],
+     "date-time": "2020-06-16T00:00:00Z",
+     "timestamp": 1592265600000
+    },
+    "content-version": "vor",
+    "delay-in-days": 0,
+    "URL": "https://creativecommons.org/licenses/by/4.0"
+   }
+  ],
+  "funder": [
+   {
+    "DOI": "10.13039/501100007809",
+    "name": "Saudi Aramco",
+    "doi-asserted-by": "publisher",
+    "id": [
+     {
+      "id": "10.13039/501100007809",
+      "id-type": "DOI",
+      "asserted-by": "publisher"
+     }
+    ]
+   },
+   {
+    "DOI": "10.13039/100006584",
+    "name": "Exxon Mobil Corporation | ExxonMobil Research and Engineering Company",
+    "doi-asserted-by": "publisher",
+    "id": [
+     {
+      "id": "10.13039/100006584",
+      "id-type": "DOI",
+      "asserted-by": "publisher"
+     }
+    ]
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "link.springer.com"
+   ],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Nat Commun"
+  ],
+  "DOI": "10.1038/s41467-020-16860-y",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2020,
+     6,
+     16
+    ]
+   ],
+   "date-time": "2020-06-16T10:04:43Z",
+   "timestamp": 1592301883000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 125,
+  "title": [
+   "Understanding rate effects in injection-induced earthquakes"
+  ],
+  "prefix": "10.1038",
+  "volume": "11",
+  "author": [
+   {
+    "given": "Maryam",
+    "family": "Alghannam",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-7370-2332",
+    "authenticated-orcid": false,
+    "given": "Ruben",
+    "family": "Juanes",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "297",
+  "published-online": {
+   "date-parts": [
+    [
+     2020,
+     6,
+     16
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "16860_CR1",
+    "doi-asserted-by": "publisher",
+    "first-page": "1301",
+    "DOI": "10.1126/science.161.3848.1301",
+    "volume": "161",
+    "author": "J Healy",
+    "year": "1968",
+    "unstructured": "Healy, J., Rubey, W., Griggs, D. & Raleigh, C. The Denver earthquakes. Science 161, 1301–1310 (1968).",
+    "journal-title": "Science"
+   },
+   {
+    "key": "16860_CR2",
+    "doi-asserted-by": "publisher",
+    "first-page": "448",
+    "DOI": "10.1126/science.1255802",
+    "volume": "345",
+    "author": "KM Keranen",
+    "year": "2014",
+    "unstructured": "Keranen, K. M., Weingarten, M., Abers, G. A., Bekins, B. A. & Ge, S. Sharp increase in central Oklahoma seismicity since 2008 induced by massive wastewater injection. Science 345, 448–451 (2014).",
+    "journal-title": "Science"
+   },
+   {
+    "key": "16860_CR3",
+    "doi-asserted-by": "publisher",
+    "first-page": "711",
+    "DOI": "10.1002/2016GL071685",
+    "volume": "44",
+    "author": "WL Yeck",
+    "year": "2017",
+    "unstructured": "Yeck, W. L. et al. Oklahoma experiences largest earthquake during ongoing regional wastewater injection hazard mitigation efforts. Geophys. Res. Lett. 44, 711–717 (2017).",
+    "journal-title": "Geophys. Res. Lett."
+   },
+   {
+    "key": "16860_CR4",
+    "doi-asserted-by": "publisher",
+    "first-page": "1003",
+    "DOI": "10.1126/science.aat2010",
+    "volume": "360",
+    "author": "F Grigoli",
+    "year": "2018",
+    "unstructured": "Grigoli, F. et al. The November 2017 Mw 5.5 Pohang earthquake: a possible case of induced seismicity in South Korea. Science 360, 1003–1006 (2018).",
+    "journal-title": "Science"
+   },
+   {
+    "key": "16860_CR5",
+    "doi-asserted-by": "publisher",
+    "first-page": "1230",
+    "DOI": "10.1126/science.191.4233.1230",
+    "volume": "191",
+    "author": "C Raleigh",
+    "year": "1976",
+    "unstructured": "Raleigh, C., Healy, J. & Bredehoeft, J. An experiment in earthquake control at Rangely, Colorado. Science 191, 1230–1237 (1976).",
+    "journal-title": "Science"
+   },
+   {
+    "key": "16860_CR6",
+    "doi-asserted-by": "publisher",
+    "first-page": "115",
+    "DOI": "10.1130/0016-7606(1959)70[115:ROFPIM]2.0.CO;2",
+    "volume": "70",
+    "author": "KM Hubbert",
+    "year": "1959",
+    "unstructured": "Hubbert, K. M. & Rubey, W. W. Role of fluid pressure in mechanics of overthrust faulting: I. mechanics of fluid-filled porous solids and its application to overthrust faulting. Geol. Soc. Am. Bull. 70, 115–166 (1959).",
+    "journal-title": "Geol. Soc. Am. Bull."
+   },
+   {
+    "key": "16860_CR7",
+    "doi-asserted-by": "crossref",
+    "first-page": "1477",
+    "DOI": "10.1785/BSSA0790051439",
+    "volume": "79",
+    "author": "SD Davis",
+    "year": "1989",
+    "unstructured": "Davis, S. D. & Pennington, W. D. Induced seismic deformation in the Cogdell oil field of West Texas. Bull. Seismol. Soc. Am. 79, 1477–1495 (1989).",
+    "journal-title": "Bull. Seismol. Soc. Am."
+   },
+   {
+    "key": "16860_CR8",
+    "doi-asserted-by": "publisher",
+    "first-page": "926",
+    "DOI": "10.1093/gji/ggz058",
+    "volume": "217",
+    "author": "H Hofmann",
+    "year": "2019",
+    "unstructured": "Hofmann, H. et al. First field application of cyclic soft stimulation at the Pohang Enhanced Geothermal System site in Korea. Geophys. J. Int. 217, 926–949 (2019).",
+    "journal-title": "Geophys. J. Int."
+   },
+   {
+    "key": "16860_CR9",
+    "doi-asserted-by": "publisher",
+    "first-page": "1008",
+    "DOI": "10.1002/2013JB010597",
+    "volume": "119",
+    "author": "A McGarr",
+    "year": "2014",
+    "unstructured": "McGarr, A. Maximum magnitude earthquakes induced by fluid injection. J. Geophys. Res. Solid Earth 119, 1008–1019 (2014).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "16860_CR10",
+    "doi-asserted-by": "publisher",
+    "first-page": "730",
+    "DOI": "10.1126/science.aax1878",
+    "volume": "364",
+    "author": "K-K Lee",
+    "year": "2019",
+    "unstructured": "Lee, K.-K. et al. Managing injection-induced seismic risks. Science 364, 730–732 (2019).",
+    "journal-title": "Science"
+   },
+   {
+    "key": "16860_CR11",
+    "doi-asserted-by": "publisher",
+    "first-page": "13934",
+    "DOI": "10.1073/pnas.1207728109",
+    "volume": "109",
+    "author": "C Frohlich",
+    "year": "2012",
+    "unstructured": "Frohlich, C. Two-year survey comparing earthquake activity and injection-well locations in the Barnett Shale, Texas. Proc. Natl Acad. Sci. USA 109, 13934–13938 (2012).",
+    "journal-title": "Proc. Natl Acad. Sci. USA"
+   },
+   {
+    "key": "16860_CR12",
+    "doi-asserted-by": "publisher",
+    "first-page": "1336",
+    "DOI": "10.1126/science.aab1345",
+    "volume": "348",
+    "author": "M Weingarten",
+    "year": "2015",
+    "unstructured": "Weingarten, M., Ge, S., Godt, J. W., Bekins, B. A. & Rubinstein, J. L. High-rate injection is associated with the increase in US mid-continent seismicity. Science 348, 1336–1340 (2015).",
+    "journal-title": "Science"
+   },
+   {
+    "key": "16860_CR13",
+    "doi-asserted-by": "publisher",
+    "first-page": "2682",
+    "DOI": "10.1002/2015GL063369",
+    "volume": "42",
+    "author": "L Improta",
+    "year": "2015",
+    "unstructured": "Improta, L., Valoroso, L., Piccinini, D. & Chiarabba, C. A detailed analysis of wastewater-induced seismicity in the Val d’Agri oil field (Italy). Geophys. Res. Lett. 42, 2682–2690 (2015).",
+    "journal-title": "Geophys. Res. Lett."
+   },
+   {
+    "key": "16860_CR14",
+    "doi-asserted-by": "publisher",
+    "first-page": "e1601542",
+    "DOI": "10.1126/sciadv.1601542",
+    "volume": "2",
+    "author": "C Langenbruch",
+    "year": "2016",
+    "unstructured": "Langenbruch, C. & Zoback, M. D. How will induced seismicity in Oklahoma respond to decreased saltwater injection rates? Sci. Adv. 2, e1601542 (2016).",
+    "journal-title": "Sci. Adv."
+   },
+   {
+    "key": "16860_CR15",
+    "doi-asserted-by": "publisher",
+    "first-page": "1040",
+    "DOI": "10.1785/0220170003",
+    "volume": "88",
+    "author": "AJ Barbour",
+    "year": "2017",
+    "unstructured": "Barbour, A. J., Norbeck, J. H. & Rubinstein, J. L. The effects of varying injection rates in Osage County, Oklahoma, on the 2016 Mw 5.8 Pawnee earthquake. Seismol. Res. Lett. 88, 1040–1053 (2017).",
+    "journal-title": "Seismol. Res. Lett."
+   },
+   {
+    "key": "16860_CR16",
+    "doi-asserted-by": "publisher",
+    "first-page": "797",
+    "DOI": "10.1007/s00024-008-0335-7",
+    "volume": "165",
+    "author": "N Cuenot",
+    "year": "2008",
+    "unstructured": "Cuenot, N., Dorbath, C. & Dorbath, L. Analysis of the microseismicity induced by fluid injections at the EGS site of Soultz-sous-Forêts (Alsace, France): implications for the characterization of the geothermal reservoir properties. Pure Appl. Geophys. 165, 797–828 (2008).",
+    "journal-title": "Pure Appl. Geophys."
+   },
+   {
+    "key": "16860_CR17",
+    "doi-asserted-by": "publisher",
+    "first-page": "3506",
+    "DOI": "10.1002/jgrb.50247",
+    "volume": "118",
+    "author": "W-Y Kim",
+    "year": "2013",
+    "unstructured": "Kim, W.-Y. Induced seismicity associated with fluid injection into a deep well in Youngstown, Ohio. J. Geophys. Res. Solid Earth 118, 3506–3518 (2013).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "16860_CR18",
+    "doi-asserted-by": "publisher",
+    "first-page": "5929",
+    "DOI": "10.1029/2018JB015863",
+    "volume": "123",
+    "author": "L Tang",
+    "year": "2018",
+    "unstructured": "Tang, L., Lu, Z., Zhang, M., Sun, L. & Wen, L. Seismicity induced by simultaneous abrupt changes of injection rate and well pressure in Hutubi gas field. J. Geophys. Res. Solid Earth 123, 5929–5944 (2018).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "16860_CR19",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41467-018-06167-4",
+    "volume": "9",
+    "author": "C Langenbruch",
+    "year": "2018",
+    "unstructured": "Langenbruch, C., Weingarten, M. & Zoback, M. D. Physics-based forecasting of man-made earthquake hazards in Oklahoma and Kansas. Nat. Commun. 9, 3946 (2018).",
+    "journal-title": "Nat. Commun."
+   },
+   {
+    "key": "16860_CR20",
+    "doi-asserted-by": "publisher",
+    "first-page": "2963",
+    "DOI": "10.1002/2017GL076562",
+    "volume": "45",
+    "author": "J Norbeck",
+    "year": "2018",
+    "unstructured": "Norbeck, J. & Rubinstein, J. L. Hydromechanical earthquake nucleation model forecasts onset, peak, and falling rates of induced seismicity in Oklahoma and Kansas. Geophys. Res. Lett. 45, 2963–2975 (2018).",
+    "journal-title": "Geophys. Res. Lett."
+   },
+   {
+    "key": "16860_CR21",
+    "doi-asserted-by": "publisher",
+    "first-page": "16228",
+    "DOI": "10.1073/pnas.1819225116",
+    "volume": "116",
+    "author": "G Zhai",
+    "year": "2019",
+    "unstructured": "Zhai, G., Shirzaei, M., Manga, M. & Chen, X. Pore-pressure diffusion, enhanced by poroelastic stresses, controls induced seismicity in Oklahoma. Proc. Natl Acad. Sci. USA 116, 16228–16233 (2019).",
+    "journal-title": "Proc. Natl Acad. Sci. USA"
+   },
+   {
+    "key": "16860_CR22",
+    "doi-asserted-by": "publisher",
+    "first-page": "1351",
+    "DOI": "10.1007/s10596-018-9757-1",
+    "volume": "22",
+    "author": "K Torberntsson",
+    "year": "2018",
+    "unstructured": "Torberntsson, K., Stiernström, V., Mattsson, K. & Dunham, E. M. A finite difference method for earthquake sequences in poroelastic solids. Comput. Geosci. 22, 1351–1370 (2018).",
+    "journal-title": "Comput. Geosci."
+   },
+   {
+    "key": "16860_CR23",
+    "doi-asserted-by": "publisher",
+    "first-page": "5730",
+    "DOI": "10.1029/2018JB015533",
+    "volume": "123",
+    "author": "P Pampillón",
+    "year": "2018",
+    "unstructured": "Pampillón, P., Santillán, D., Mosquera, J. C. & Cueto-Felgueroso, L. Dynamic and quasi-dynamic modeling of injection-induced earthquakes in poroelastic media. J. Geophys. Res. Solid Earth 123, 5730–5759 (2018).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "16860_CR24",
+    "doi-asserted-by": "publisher",
+    "unstructured": "Shapiro, S. & Dinske, C. Scaling of seismicity induced by nonlinear fluid-rock interaction. J. Geophys. Res. Solid Earth https://doi.org/10.1029/2008JB006145 (2009).",
+    "DOI": "10.1029/2008JB006145"
+   },
+   {
+    "key": "16860_CR25",
+    "doi-asserted-by": "publisher",
+    "first-page": "185",
+    "DOI": "10.1016/j.geothermics.2007.03.003",
+    "volume": "36",
+    "author": "EL Majer",
+    "year": "2007",
+    "unstructured": "Majer, E. L. et al. Induced seismicity associated with enhanced geothermal systems. Geothermics 36, 185–222 (2007).",
+    "journal-title": "Geothermics"
+   },
+   {
+    "key": "16860_CR26",
+    "doi-asserted-by": "publisher",
+    "first-page": "1224",
+    "DOI": "10.1126/science.aab0476",
+    "volume": "348",
+    "author": "Y Guglielmi",
+    "year": "2015",
+    "unstructured": "Guglielmi, Y., Cappa, F., Avouac, J.-P., Henry, P. & Elsworth, D. Seismicity triggered by fluid injection–induced aseismic slip. Science 348, 1224–1226 (2015).",
+    "journal-title": "Science"
+   },
+   {
+    "key": "16860_CR27",
+    "doi-asserted-by": "publisher",
+    "first-page": "563",
+    "DOI": "10.1007/s000240050093",
+    "volume": "150",
+    "author": "F Cornet",
+    "year": "1997",
+    "unstructured": "Cornet, F., Helm, J., Poitrenaud, H. & Etchecopar, A. Seismic and aseismic slips induced by large-scale fluid injections. Pure Appl. Geophys. 150, 563–583 (1997).",
+    "journal-title": "Pure Appl. Geophys."
+   },
+   {
+    "key": "16860_CR28",
+    "doi-asserted-by": "publisher",
+    "first-page": "723",
+    "DOI": "10.1111/j.1365-246X.2006.03325.x",
+    "volume": "169",
+    "author": "S Bourouis",
+    "year": "2007",
+    "unstructured": "Bourouis, S. & Bernard, P. Evidence for coupled seismic and aseismic fault slip during water injection in the geothermal site of Soultz (France), and implications for seismogenic transients. Geophys. J. Int. 169, 723–732 (2007).",
+    "journal-title": "Geophys. J. Int."
+   },
+   {
+    "key": "16860_CR29",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Zoback, M. D. et al. The importance of slow slip on faults during hydraulic fracturing stimulation of shale gas reservoirs. In SPE Americas Unconventional Resources Conference (Society of Petroleum Engineers, 2012).",
+    "DOI": "10.2118/155476-MS"
+   },
+   {
+    "key": "16860_CR30",
+    "doi-asserted-by": "publisher",
+    "first-page": "115",
+    "DOI": "10.1016/j.epsl.2015.03.054",
+    "volume": "422",
+    "author": "S Wei",
+    "year": "2015",
+    "unstructured": "Wei, S. et al. The 2012 Brawley swarm triggered by injection-induced aseismic slip. Earth Planet. Sci. Lett. 422, 115–125 (2015).",
+    "journal-title": "Earth Planet. Sci. Lett."
+   },
+   {
+    "key": "16860_CR31",
+    "doi-asserted-by": "publisher",
+    "first-page": "475",
+    "DOI": "10.1016/0040-1951(70)90059-4",
+    "volume": "9",
+    "author": "J Byerlee",
+    "year": "1970",
+    "unstructured": "Byerlee, J. The mechanics of stick-slip. Tectonophysics 9, 475–486 (1970).",
+    "journal-title": "Tectonophysics"
+   },
+   {
+    "key": "16860_CR32",
+    "doi-asserted-by": "publisher",
+    "first-page": "10359",
+    "DOI": "10.1029/JB088iB12p10359",
+    "volume": "88",
+    "author": "A Ruina",
+    "year": "1983",
+    "unstructured": "Ruina, A. Slip instability and state variable friction laws. J. Geophys. Res. Solid Earth 88, 10359–10370 (1983).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "16860_CR33",
+    "doi-asserted-by": "publisher",
+    "first-page": "521",
+    "DOI": "10.1029/JB091iB01p00521",
+    "volume": "91",
+    "author": "JR Rice",
+    "year": "1986",
+    "unstructured": "Rice, J. R. & Tse, S. T. Dynamic motion of a single degree of freedom system following a rate and state dependent friction law. J. Geophys. Res. Solid Earth 91, 521–530 (1986).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "16860_CR34",
+    "doi-asserted-by": "publisher",
+    "first-page": "22155",
+    "DOI": "10.1029/95JB02403",
+    "volume": "100",
+    "author": "P Segall",
+    "year": "1995",
+    "unstructured": "Segall, P. & Rice, J. R. Dilatancy, compaction, and slip instability of a fluid-infiltrated fault. J. Geophys. Res. Solid Earth 100, 22155–22171 (1995).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "16860_CR35",
+    "doi-asserted-by": "publisher",
+    "first-page": "F02015",
+    "DOI": "10.1029/2004JF000268",
+    "volume": "110",
+    "author": "RM Iverson",
+    "year": "2005",
+    "unstructured": "Iverson, R. M. Regulation of landslide motion by dilatancy and pore pressure feedback. J. Geophys. Res. Earth Surf. 110, F02015 (2005).",
+    "journal-title": "J. Geophys. Res. Earth Surf."
+   },
+   {
+    "key": "16860_CR36",
+    "doi-asserted-by": "publisher",
+    "first-page": "2161",
+    "DOI": "10.1029/JB084iB05p02161",
+    "volume": "84",
+    "author": "JH Dieterich",
+    "year": "1979",
+    "unstructured": "Dieterich, J. H. Modeling of rock friction: 1. Experimental results and constitutive equations. J. Geophys. Res. Solid Earth 84, 2161–2168 (1979).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "16860_CR37",
+    "doi-asserted-by": "publisher",
+    "first-page": "990",
+    "DOI": "10.1126/science.153.3739.990",
+    "volume": "153",
+    "author": "W Brace",
+    "year": "1966",
+    "unstructured": "Brace, W. & Byerlee, J. Stick-slip as a mechanism for earthquakes. Science 153, 990–992 (1966).",
+    "journal-title": "Science"
+   },
+   {
+    "key": "16860_CR38",
+    "doi-asserted-by": "crossref",
+    "first-page": "e2019GL086627",
+    "DOI": "10.1029/2019GL086627",
+    "volume": "47",
+    "author": "L Wang",
+    "year": "2020",
+    "unstructured": "Wang, L. et al. Laboratory study on fluid-induced fault slip behavior: The role of fluid pressurization rate. Geophys. Res. Lett. 47, e2019GL086627 (2020).",
+    "journal-title": "Geophys. Res. Lett."
+   },
+   {
+    "key": "16860_CR39",
+    "doi-asserted-by": "publisher",
+    "first-page": "4330",
+    "DOI": "10.1002/2016GL068893",
+    "volume": "43",
+    "author": "ME French",
+    "year": "2016",
+    "unstructured": "French, M. E., Zhu, W. & Banker, J. Fault slip controlled by stress path and fluid pressurization rate. Geophys. Res. Lett. 43, 4330–4339 (2016).",
+    "journal-title": "Geophys. Res. Lett."
+   },
+   {
+    "key": "16860_CR40",
+    "doi-asserted-by": "crossref",
+    "first-page": "657",
+    "DOI": "10.1785/BSSA0620020657",
+    "volume": "62",
+    "author": "J Byerlee",
+    "year": "1972",
+    "unstructured": "Byerlee, J. & Brace, W. Fault stability and pore pressure. Bull. Seismol. Soc. Am. 62, 657–660 (1972).",
+    "journal-title": "Bull. Seismol. Soc. Am."
+   },
+   {
+    "key": "16860_CR41",
+    "doi-asserted-by": "publisher",
+    "first-page": "643",
+    "DOI": "10.1146/annurev.earth.26.1.643",
+    "volume": "26",
+    "author": "C Marone",
+    "year": "1998",
+    "unstructured": "Marone, C. Laboratory-derived friction laws and their application to seismic faulting. Annu. Rev. Earth Planet. Sci. 26, 643–696 (1998).",
+    "journal-title": "Annu. Rev. Earth Planet. Sci."
+   },
+   {
+    "key": "16860_CR42",
+    "doi-asserted-by": "publisher",
+    "first-page": "4923",
+    "DOI": "10.1029/92JB00017",
+    "volume": "97",
+    "author": "M Linker",
+    "year": "1992",
+    "unstructured": "Linker, M. & Dieterich, J. H. Effects of variable normal stress on rock friction: observations and constitutive equations. J. Geophys. Res. Solid Earth 97, 4923–4940 (1992).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "16860_CR43",
+    "doi-asserted-by": "publisher",
+    "first-page": "031007",
+    "DOI": "10.1115/1.4005883",
+    "volume": "79",
+    "author": "B Kilgore",
+    "year": "2012",
+    "unstructured": "Kilgore, B., Lozos, J., Beeler, N. & Oglesby, D. Laboratory observations of fault strength in response to changes in normal stress. J. Appl. Mech. 79, 031007 (2012).",
+    "journal-title": "J. Appl. Mech."
+   },
+   {
+    "key": "16860_CR44",
+    "doi-asserted-by": "publisher",
+    "first-page": "262",
+    "DOI": "10.1016/j.jmps.2019.06.007",
+    "volume": "130",
+    "author": "ER Heimisson",
+    "year": "2019",
+    "unstructured": "Heimisson, E. R., Dunham, E. M. & Almquist, M. Poroelastic effects destabilize mildly rate-strengthening friction to generate stable slow slip pulses. J. Mech. Phys. Solids 130, 262–279 (2019).",
+    "journal-title": "J. Mech. Phys. Solids"
+   },
+   {
+    "key": "16860_CR45",
+    "doi-asserted-by": "publisher",
+    "first-page": "303",
+    "DOI": "10.1007/BF00874333",
+    "volume": "143",
+    "author": "W Wang",
+    "year": "1994",
+    "unstructured": "Wang, W. & Scholz, C. Micromechanics of the velocity and normal stress dependence of rock friction. Pure Appl. Geophys. 143, 303–315 (1994).",
+    "journal-title": "Pure Appl. Geophys."
+   },
+   {
+    "key": "16860_CR46",
+    "doi-asserted-by": "publisher",
+    "first-page": "198",
+    "DOI": "10.1038/nature09349",
+    "volume": "467",
+    "author": "M Moreno",
+    "year": "2010",
+    "unstructured": "Moreno, M., Rosenau, M. & Oncken, O. 2010 Maule earthquake slip correlates with pre-seismic locking of Andean subduction zone. Nature 467, 198–202 (2010).",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "16860_CR47",
+    "doi-asserted-by": "publisher",
+    "first-page": "L23301",
+    "DOI": "10.1029/2012GL053793",
+    "volume": "39",
+    "author": "H Kitajima",
+    "year": "2012",
+    "unstructured": "Kitajima, H. & Saffer, D. M. Elevated pore pressure and anomalously low stress in regions of low frequency earthquakes along the Nankai Trough subduction megathrust. Geophys. Res. Lett. 39, L23301 (2012).",
+    "journal-title": "Geophys. Res. Lett."
+   },
+   {
+    "key": "16860_CR48",
+    "doi-asserted-by": "publisher",
+    "unstructured": "Segall, P., Rubin, A. M., Bradley, A. M. & Rice, J. R. Dilatant strengthening as a mechanism for slow slip events. J. Geophys. Res. Solid Earth https://doi.org/10.1029/2010JB007449 (2010).",
+    "DOI": "10.1029/2010JB007449"
+   },
+   {
+    "key": "16860_CR49",
+    "doi-asserted-by": "publisher",
+    "first-page": "2543",
+    "DOI": "10.1002/2015GL067569",
+    "volume": "43",
+    "author": "M Sawai",
+    "year": "2016",
+    "unstructured": "Sawai, M., Niemeijer, A. R., Plümper, O., Hirose, T. & Spiers, C. J. Nucleation of frictional instability caused by fluid pressurization in subducted blueschist. Geophys. Res. Lett. 43, 2543–2551 (2016).",
+    "journal-title": "Geophys. Res. Lett."
+   },
+   {
+    "key": "16860_CR50",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/srep24852",
+    "volume": "6",
+    "author": "MM Scuderi",
+    "year": "2016",
+    "unstructured": "Scuderi, M. M. & Collettini, C. The role of fluid pressure in induced vs. triggered seismicity: Insights from rock deformation experiments on carbonates. Sci. Rep. 6, 24852 (2016).",
+    "journal-title": "Sci. Rep."
+   },
+   {
+    "key": "16860_CR51",
+    "doi-asserted-by": "publisher",
+    "first-page": "37",
+    "DOI": "10.1038/34097",
+    "volume": "391",
+    "author": "CH Scholz",
+    "year": "1998",
+    "unstructured": "Scholz, C. H. Earthquakes and friction laws. Nature 391, 37 (1998).",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "16860_CR52",
+    "first-page": "23",
+    "volume": "3",
+    "author": "DM Evans",
+    "year": "1966",
+    "unstructured": "Evans, D. M. The Denver area earthquakes and the Rocky Mountain Arsenal disposal well. Mt. Geologist 3, 23–36 (1966).",
+    "journal-title": "Mt. Geologist"
+   },
+   {
+    "key": "16860_CR53",
+    "doi-asserted-by": "publisher",
+    "first-page": "1301",
+    "DOI": "10.1126/science.161.3848.1301",
+    "volume": "161",
+    "author": "J Healy",
+    "year": "1968",
+    "unstructured": "Healy, J., Rubey, W., Griggs, D. & Raleigh, C. The Denver earthquakes. Science 161, 1301–1310 (1968).",
+    "journal-title": "Science"
+   },
+   {
+    "key": "16860_CR54",
+    "doi-asserted-by": "publisher",
+    "first-page": "13455",
+    "DOI": "10.1029/2000JB900366",
+    "volume": "106",
+    "author": "H Perfettini",
+    "year": "2001",
+    "unstructured": "Perfettini, H., Schmittbuhl, J., Rice, J. R. & Cocco, M. Frictional response induced by time-dependent fluctuations of the normal loading. J. Geophys. Res. Solid Earth 106, 13455–13472 (2001).",
+    "journal-title": "J. Geophys. Res. Solid Earth"
+   },
+   {
+    "key": "16860_CR55",
+    "doi-asserted-by": "publisher",
+    "first-page": "469",
+    "DOI": "10.1016/j.geothermics.2008.06.002",
+    "volume": "37",
+    "author": "MO Häring",
+    "year": "2008",
+    "unstructured": "Häring, M. O., Schanz, U., Ladner, F. & Dyer, B. C. Characterisation of the Basel 1 enhanced geothermal system. Geothermics 37, 469–495 (2008).",
+    "journal-title": "Geothermics"
+   }
+  ],
+  "container-title": [
+   "Nature Communications"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://www.nature.com/articles/s41467-020-16860-y.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://www.nature.com/articles/s41467-020-16860-y",
+    "content-type": "text/html",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://www.nature.com/articles/s41467-020-16860-y.pdf",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2023,
+     10,
+     2
+    ]
+   ],
+   "date-time": "2023-10-02T12:09:03Z",
+   "timestamp": 1696248543000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.nature.com/articles/s41467-020-16860-y"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2020,
+     6,
+     16
+    ]
+   ]
+  },
+  "references-count": 55,
+  "journal-issue": {
+   "issue": "1",
+   "published-online": {
+    "date-parts": [
+     [
+      2020,
+      12
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "16860"
+  ],
+  "URL": "https://doi.org/10.1038/s41467-020-16860-y",
+  "relation": {},
+  "ISSN": [
+   "2041-1723"
+  ],
+  "issn-type": [
+   {
+    "value": "2041-1723",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2020,
+     6,
+     16
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "23 September 2019",
+    "order": 1,
+    "name": "received",
+    "label": "Received",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "20 May 2020",
+    "order": 2,
+    "name": "accepted",
+    "label": "Accepted",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "16 June 2020",
+    "order": 3,
+    "name": "first_online",
+    "label": "First Online",
+    "group": {
+     "name": "ArticleHistory",
+     "label": "Article History"
+    }
+   },
+   {
+    "value": "The authors declare no competing interests.",
+    "order": 1,
+    "name": "Ethics",
+    "group": {
+     "name": "EthicsHeading",
+     "label": "Competing interests"
+    }
+   }
+  ],
+  "article-number": "3053"
+ }
+}

@@ -1,0 +1,45 @@
+target_id: centre-minimum-dawson-abel-kernel
+search_date: 2026-10-28
+intended_contribution_unit: theorem
+claim:
+  exact_statement: |
+    For all R>0, alpha>0, 0<r<R, and 0<u_y<u_o,
+    K_R(r,u_o)/K_R(r,u_y)>K_R(0,u_o)/K_R(0,u_y),
+    where K_R(r,u)=integral_r^R [a/sqrt(a^2-r^2)]
+    D(a/sqrt(4 alpha u))/(u a/sqrt(4 alpha u)) da and
+    D(x)=exp(-x^2) integral_0^x exp(z^2) dz.
+  exclusions:
+    - No claim of monotonicity between arbitrary nonzero radii; this is false.
+    - No independent proof here that the kernel represents a moving frictional crack.
+    - No claim about post-locking continuation or non-unimodal histories.
+    - No historical priority claim based on failed searches.
+source:
+  originating_reference: "Saez, Passelegue and Lecampion (2025), Maximum size and magnitude of injection-induced slow slip events, paragraph following Eq. 24"
+  url: "https://doi.org/10.1126/sciadv.adq0662"
+normalisation:
+  indices: r is interior radius; u is response age; R is fixed during each comparison.
+  scaling: lambda=1/(4 alpha u); L=sqrt(R^2-r^2).
+  basis_order: not applicable
+  symmetries: [axisymmetry]
+sequences:
+  - name: moments of S_0 for R=1
+    exact_values: ["1", "2/9", "8/75", "16/245", "128/2835"]
+    natural_scalings: ["E[S_0^n]=4^n(n!)^2/((2n+1)(2n+1)!)"]
+generating_functions:
+  - name: Laplace transform of centre distribution
+    expression: "2F2(1,1/2;3/2,3/2;-lambda)"
+    variables: [lambda]
+matrices: []
+aliases:
+  analysis: [Dawson integral, Abel integral, Laplace transform ratio, single crossing]
+  probability: [Laplace-transform-ratio order, shifted beta product, product density]
+  combinatorics: [beta moments, hypergeometric coefficient sequence]
+  mathematical_physics: [axisymmetric crack, diffusion response, positive kernel]
+  statistics_optimisation_ml: [signed chronological mixture, stochastic order]
+known_invariants:
+  centre_density: "arccos(sqrt(s)/R)/(2R sqrt(s)), 0<s<R^2"
+  coupling: "S_r-S_0=r^2(1-Z^2)(1-T^2)>0 a.s."
+  endpoints: "K_r/K_0 increases from 0 to sqrt(R^2-r^2)/R"
+search_constraints:
+  primary_sources_only_for_technical_claims: true
+  databases_or_corpora: [web search engine 1, web search engine 2, arXiv, publisher primary pages]

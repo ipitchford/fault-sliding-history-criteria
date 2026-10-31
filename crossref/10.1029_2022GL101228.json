@@ -1,0 +1,615 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     8,
+     28
+    ]
+   ],
+   "date-time": "2026-08-28T05:00:42Z",
+   "timestamp": 1787893242623,
+   "version": "build-2784847793"
+  },
+  "reference-count": 57,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "4",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2023,
+       2,
+       21
+      ]
+     ],
+     "date-time": "2023-02-21T00:00:00Z",
+     "timestamp": 1676937600000
+    },
+    "content-version": "vor",
+    "delay-in-days": 0,
+    "URL": "http://creativecommons.org/licenses/by/4.0/"
+   }
+  ],
+  "funder": [
+   {
+    "DOI": "10.13039/100011510",
+    "name": "Southern California Earthquake Center",
+    "doi-asserted-by": "publisher",
+    "award": [
+     "22142"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "22142"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100011510",
+      "id-type": "DOI",
+      "asserted-by": "publisher"
+     }
+    ]
+   },
+   {
+    "DOI": "10.13039/100000001",
+    "name": "National Science Foundation",
+    "doi-asserted-by": "publisher",
+    "award": [
+     "1653382"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "1653382"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100000001",
+      "id-type": "DOI",
+      "asserted-by": "publisher"
+     }
+    ]
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "agupubs.onlinelibrary.wiley.com"
+   ],
+   "crossmark-restriction": true
+  },
+  "short-container-title": [
+   "Geophysical Research Letters"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2023,
+     2,
+     28
+    ]
+   ]
+  },
+  "DOI": "10.1029/2022gl101228",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2023,
+     2,
+     21
+    ]
+   ],
+   "date-time": "2023-02-21T13:27:14Z",
+   "timestamp": 1676986034000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 25,
+  "title": [
+   "Nucleation and Arrest of Fluid‐Induced Aseismic Slip"
+  ],
+  "prefix": "10.1029",
+  "volume": "50",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-6259-4305",
+    "authenticated-orcid": false,
+    "given": "Antoine B.",
+    "family": "Jacquey",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Civil and Environmental Engineering Tufts University  Medford MA USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-4180-7807",
+    "authenticated-orcid": false,
+    "given": "Robert C.",
+    "family": "Viesca",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Civil and Environmental Engineering Tufts University  Medford MA USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "13",
+  "published-online": {
+   "date-parts": [
+    [
+     2023,
+     2,
+     21
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "e_1_2_7_1_2_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1093/gji/ggt356"
+   },
+   {
+    "key": "e_1_2_7_1_3_1",
+    "volume-title": "European Hot Dry Rock Programme 1992‐1995",
+    "author": "Baria R.",
+    "year": "1996"
+   },
+   {
+    "key": "e_1_2_7_1_4_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aaw7354"
+   },
+   {
+    "key": "e_1_2_7_1_5_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s10950-015-9478-z"
+   },
+   {
+    "key": "e_1_2_7_1_6_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aat2776"
+   },
+   {
+    "key": "e_1_2_7_1_7_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2018gl080233"
+   },
+   {
+    "key": "e_1_2_7_1_8_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/sciadv.aau4065"
+   },
+   {
+    "key": "e_1_2_7_1_9_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1093/gji/ggaa051"
+   },
+   {
+    "key": "e_1_2_7_1_10_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2011jb008973"
+   },
+   {
+    "key": "e_1_2_7_1_11_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2018jb016636"
+   },
+   {
+    "key": "e_1_2_7_1_12_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s00603-023-03249-8"
+   },
+   {
+    "key": "e_1_2_7_1_13_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/nme.6520"
+   },
+   {
+    "key": "e_1_2_7_1_14_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s40948-021-00336-4"
+   },
+   {
+    "key": "e_1_2_7_1_15_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s000240050093"
+   },
+   {
+    "key": "e_1_2_7_1_16_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/jb084ib05p02161"
+   },
+   {
+    "key": "e_1_2_7_1_17_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jmps.2019.07.015"
+   },
+   {
+    "key": "e_1_2_7_1_18_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.1225942"
+   },
+   {
+    "key": "e_1_2_7_1_19_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.25577/SSFS1993"
+   },
+   {
+    "key": "e_1_2_7_1_20_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/sciadv.aav7172"
+   },
+   {
+    "key": "e_1_2_7_1_21_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2008jb006087"
+   },
+   {
+    "key": "e_1_2_7_1_22_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.epsl.2009.05.009"
+   },
+   {
+    "key": "e_1_2_7_1_23_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/sciadv.aap7528"
+   },
+   {
+    "key": "e_1_2_7_1_24_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1098/rsta.2020.0129"
+   },
+   {
+    "key": "e_1_2_7_1_25_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2012JB009209"
+   },
+   {
+    "key": "e_1_2_7_1_26_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aat5449"
+   },
+   {
+    "key": "e_1_2_7_1_27_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aab0476"
+   },
+   {
+    "key": "e_1_2_7_1_28_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2019gl085477"
+   },
+   {
+    "key": "e_1_2_7_1_29_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1186/s40517-018-0114-3"
+   },
+   {
+    "key": "e_1_2_7_1_30_1",
+    "volume-title": "ajacquey/DDMFrictionalSlip.jl: v1.0.0",
+    "author": "Jacquey A.",
+    "year": "2022"
+   },
+   {
+    "key": "e_1_2_7_1_31_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.1255802"
+   },
+   {
+    "key": "e_1_2_7_1_32_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2020gl091188"
+   },
+   {
+    "key": "e_1_2_7_1_33_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2006jb004596"
+   },
+   {
+    "key": "e_1_2_7_1_34_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.geothermics.2007.03.003"
+   },
+   {
+    "key": "e_1_2_7_1_35_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/nature02251"
+   },
+   {
+    "key": "e_1_2_7_1_36_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2003gl018987"
+   },
+   {
+    "key": "e_1_2_7_1_37_1",
+    "first-page": "191",
+    "volume-title": "Fracture: an advanced treatise",
+    "author": "Rice J. R.",
+    "year": "1968"
+   },
+   {
+    "key": "e_1_2_7_1_38_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1111/j.1365-246x.2009.04214.x"
+   },
+   {
+    "key": "e_1_2_7_1_39_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2008jb005642"
+   },
+   {
+    "key": "e_1_2_7_1_40_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/jb088ib12p10359"
+   },
+   {
+    "key": "e_1_2_7_1_41_1",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Sáez A. &Lecampion B.(2022).Post‐injection aseismic slip as a mechanism for the delayed triggering of seismicity. arXiv.https://doi.org/10.48550/ARXIV.2211.16803",
+    "DOI": "10.1098/rspa.2022.0810"
+   },
+   {
+    "key": "e_1_2_7_1_42_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jmps.2021.104754"
+   },
+   {
+    "key": "e_1_2_7_1_43_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0148-9062(94)90902-4"
+   },
+   {
+    "key": "e_1_2_7_1_44_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1111/j.1365-2478.2008.00770.x"
+   },
+   {
+    "key": "e_1_2_7_1_45_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1111/j.1365-246x.1997.tb01215.x"
+   },
+   {
+    "key": "e_1_2_7_1_46_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1190/1.1451597"
+   },
+   {
+    "key": "e_1_2_7_1_47_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2015jb012719"
+   },
+   {
+    "key": "e_1_2_7_1_48_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2001jb001681"
+   },
+   {
+    "key": "e_1_2_7_1_49_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/jfm.2021.825"
+   },
+   {
+    "key": "e_1_2_7_1_50_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41561-019-0367-x"
+   },
+   {
+    "key": "e_1_2_7_1_51_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.epsl.2015.03.054"
+   },
+   {
+    "key": "e_1_2_7_1_52_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aab1345"
+   },
+   {
+    "key": "e_1_2_7_1_53_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2020jb021258"
+   },
+   {
+    "key": "e_1_2_7_1_54_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.geothermics.2014.06.005"
+   },
+   {
+    "key": "e_1_2_7_1_55_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41467-020-18598-z"
+   },
+   {
+    "key": "e_1_2_7_2_2_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/nag.1610120508"
+   },
+   {
+    "key": "e_1_2_7_2_3_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/nag.2405"
+   },
+   {
+    "key": "e_1_2_7_2_4_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/rg014i002p00227"
+   }
+  ],
+  "container-title": [
+   "Geophysical Research Letters"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2022GL101228",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2022GL101228",
+    "content-type": "application/xml",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022GL101228",
+    "content-type": "application/pdf",
+    "content-version": "vor",
+    "intended-application": "syndication"
+   },
+   {
+    "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022GL101228",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2024,
+     6,
+     7
+    ]
+   ],
+   "date-time": "2024-06-07T04:18:17Z",
+   "timestamp": 1717733897000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL101228"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     2,
+     21
+    ]
+   ]
+  },
+  "references-count": 57,
+  "journal-issue": {
+   "issue": "4",
+   "published-print": {
+    "date-parts": [
+     [
+      2023,
+      2,
+      28
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "10.1029/2022GL101228"
+  ],
+  "URL": "https://doi.org/10.1029/2022gl101228",
+  "archive": [
+   "Portico"
+  ],
+  "relation": {
+   "has-preprint": [
+    {
+     "id-type": "doi",
+     "id": "10.1002/essoar.10512431.2",
+     "asserted-by": "object"
+    },
+    {
+     "id-type": "doi",
+     "id": "10.1002/essoar.10512431.1",
+     "asserted-by": "object"
+    }
+   ]
+  },
+  "ISSN": [
+   "0094-8276",
+   "1944-8007"
+  ],
+  "issn-type": [
+   {
+    "value": "0094-8276",
+    "type": "print"
+   },
+   {
+    "value": "1944-8007",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2023,
+     2,
+     21
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "2022-09-16",
+    "order": 0,
+    "name": "received",
+    "label": "Received",
+    "group": {
+     "name": "publication_history",
+     "label": "Publication History"
+    }
+   },
+   {
+    "value": "2023-02-06",
+    "order": 1,
+    "name": "accepted",
+    "label": "Accepted",
+    "group": {
+     "name": "publication_history",
+     "label": "Publication History"
+    }
+   },
+   {
+    "value": "2023-02-21",
+    "order": 2,
+    "name": "published",
+    "label": "Published",
+    "group": {
+     "name": "publication_history",
+     "label": "Publication History"
+    }
+   }
+  ],
+  "article-number": "e2022GL101228"
+ }
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Scalar history criteria for the first loss of full sliding under variable fluid injection",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "<p><strong>Unrefereed research candidate.</strong> Fluid injected into a fault can drive slow, aseismic slip that spreads as an expanding crack; when the injection rate is reduced, part of the fault eventually stops slipping forward. In the standard circular model (constant friction, zero fracture energy, zero Poisson ratio) this package shows that one scalar quantity, the slip-rate history at the injection point, decides when full sliding is first lost. For a point source, a Gaussian source or any positive mixture of Gaussian widths and any rate that rises and then falls, the whole slipping disk moves forward exactly when the centre does (Theorem 1). For piecewise-smooth or stepped rates with any number of rises and falls, full sliding holds over an interval exactly when the centre history has stayed nonnegative, under stated startup conditions; the crack radius then exists and grows, and full sliding is lost first at the centre (Theorems A, B and G). Consequences: an abrupt-drop tolerance of roughly the square root of source width over stage duration, a two-term finite-radius criterion with a rigorous remainder, a closed-form bound on the time after shut-in by which full sliding must have ended, and, for a point source, that no linear taper can halve the rate. Annular sources can violate the centre-first property. The results concern the first loss of full sliding only, not the later slip pulse or seismic hazard.</p><p>The archive contains the manuscript (PDF and Markdown source), the bibliography with its Crossref/DataCite records, ten verification scripts with retained outputs and semantic negative controls, a one-command runner, CI and SHA-256 sums. Assurance: written proofs and synthetic numerical checks; internal AI-assisted review only (not peer review, independent reproduction or formal verification). Creator: Anonymous. Text and data CC0-1.0; code MIT.</p>",
+  "creators": [
+    {
+      "name": "Anonymous"
+    }
+  ],
+  "version": "0.1.0-candidate",
+  "publication_date": "2026-10-31",
+  "access_right": "open",
+  "license": "cc-zero",
+  "keywords": [
+    "fluid injection",
+    "aseismic slip",
+    "fault mechanics",
+    "induced seismicity",
+    "slip front",
+    "full sliding",
+    "Dawson function",
+    "history criterion",
+    "shut-in"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ipitchford/fault-sliding-history-criteria/tree/v0.1.0-candidate",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://evidencepress.org/releases/fault-sliding-history-criteria/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.1126/sciadv.adq0662",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1098/rspa.2022.0810",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5075/epfl-thesis-10303",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1017/jfm.2025.10593",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1017/jfm.2021.825",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1016/j.jmaa.2018.10.034",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1029/2022GL101228",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1126/sciadv.aeb0234",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1016/j.epsl.2025.119579",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.2478/v10062-011-0009-2",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1007/s10543-024-01027-8",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1016/j.jmps.2021.104754",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1029/2012JB009209",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1126/science.aaw7354",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1016/j.jmps.2023.105506",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1007/BF02789991",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1016/0022-0396(78)90007-4",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1137/0512045",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1017/CBO9780511662805",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1038/s41467-020-16860-y",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1098/rspa.1946.0077",
+      "relation": "references",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1007/BFb0084665",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Code (all .py and .sh files and the CI workflow) is MIT; prose, manuscript, figures and data are CC0-1.0. Version DOI 10.5281/zenodo.23838529; concept DOI 10.5281/zenodo.23838528."
+}

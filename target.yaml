@@ -1,0 +1,59 @@
+target_id: unimodal-injection-locking-criterion
+revision: 2
+revision_note: Gaussian-source extension and explicit regular-time/nucleation conditions added after independent audit; initial point-source target retained in the search history.
+search_date: 2026-10-28
+intended_contribution_unit: theorem
+claim:
+  exact_statement: |
+    For a radial circular shear fault in the zero-Poisson-ratio, constant-friction,
+    zero-fracture-energy model, with constant hydraulic diffusivity alpha and
+    spatially uniform positive prestress deficit Delta, let the injection rate q
+    be nonnegative, locally Lipschitz except for finitely many jumps, zero before
+    t=0, and nondecreasing up to a single peak time then nonincreasing. The
+    point-source full-sliding circular branch has a unique positive radius R(t)
+    determined by f A[p](R,t)=Delta whenever q(t)>0. The Gaussian-source
+    extension uses age u+epsilon and requires f p_epsilon(0,t)>Delta for
+    positive-radius nucleation. For the point source, regular times mean q is
+    Lipschitz on an open neighbourhood; for Gaussian BV histories use continuity
+    times, and include endpoint atoms in one-sided jump velocities. Trajectory
+    identification assumes piecewise locally Lipschitz histories with finitely
+    many exceptional times on compact intervals and uses a.e. time positivity. At every regular time before first
+    locking, the formal slip rate is nonnegative everywhere inside this disk
+    if and only if its value at the injection point is nonnegative. That value
+    is an explicit scalar signed Stieltjes convolution of dq with the positive
+    Dawson-Abel kernel K_R(0,u). The proof requires the new application of a
+    single-crossing Laplace-transform ratio inequality: K_R(r,u)/K_R(0,u)
+    strictly increases with u for each fixed 0<r<R. The criterion concerns
+    onset from the full-sliding branch, not subsequent pulse propagation.
+  exclusions:
+    - No claim for slip weakening, rate-and-state friction, nonzero Poisson ratio or hydraulic heterogeneity.
+    - No claim that an instantaneous centre test suffices for arbitrary multi-peaked rate histories.
+    - No first-in-history claim for classical Abel inversion or Laplace single-crossing principles.
+    - No claim to compute the subsequent annular pulse or earthquake hazard.
+source:
+  originating_reference: Saez, Passelegue and Lecampion (2025), Science Advances 11 eadq0662, Materials and Methods p. 17.
+  url: https://doi.org/10.1126/sciadv.adq0662
+normalisation:
+  indices: r in [0,R), source age u=t-s>0
+  scaling: pressure p=(4*pi*alpha*S*w)^(-1) integral_0^t q(s)*exp(-r^2/[4*alpha*(t-s)])/(t-s) ds
+  basis_order: continuous radial coordinate
+  symmetries: [axisymmetry, radial dilation]
+sequences: []
+generating_functions:
+  - name: normalised Dawson kernel
+    expression: D(sqrt(z))/sqrt(z)=integral_0^1 exp(-z*(1-y^2))dy
+    variables: [z]
+matrices: []
+aliases:
+  analysis: [Abel integral, Dawson integral, fractional integral, mixed boundary elasticity]
+  probability: [Laplace transform ratio order, single crossing, hitting-time mixture]
+  combinatorics: [not applicable continuous kernel]
+  mathematical_physics: [penny-shaped crack, axisymmetric contact, crack-pulse transition]
+  statistics_optimisation_ml: [unimodal input, variation diminishing, positive systems]
+known_invariants:
+  kernel: K_R(r,u)=sqrt(4*alpha/u)*integral_r^R D(a/sqrt(4*alpha*u))/sqrt(a^2-r^2) da
+  double_integral: K_R(r,u)=sqrt(R^2-r^2)/u*integral_0^1 integral_0^1 exp(-(r^2+(R^2-r^2)*x^2)*(1-y^2)/(4*alpha*u)) dx dy
+  infinite_radius: pi^(3/2)*sqrt(alpha)/(2*sqrt(u))*exp(-r^2/(8*alpha*u))*I_0(r^2/(8*alpha*u))
+search_constraints:
+  primary_sources_only_for_technical_claims: true
+  databases_or_corpora: [public web search, publisher pages, author PDFs, arXiv]

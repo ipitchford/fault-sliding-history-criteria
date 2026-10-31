@@ -1,0 +1,733 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     5
+    ]
+   ],
+   "date-time": "2026-10-05T20:11:20Z",
+   "timestamp": 1791231080485,
+   "version": "4.1.0"
+  },
+  "reference-count": 90,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "B10",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2012,
+       10,
+       26
+      ]
+     ],
+     "date-time": "2012-10-26T00:00:00Z",
+     "timestamp": 1351209600000
+    },
+    "content-version": "vor",
+    "delay-in-days": 25,
+    "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+   }
+  ],
+  "funder": [
+   {
+    "name": "NSF",
+    "award": [
+     "EAR-1036985"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "EAR-1036985"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "NSF",
+    "award": [
+     "CMMI-0919497"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "CMMI-0919497"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "NSF",
+    "award": [
+     "EAR-0969053"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "EAR-0969053"
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.13039/501100000038",
+    "name": "NSERC",
+    "doi-asserted-by": "crossref",
+    "award": [
+     "371606"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "371606"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/501100000038",
+      "id-type": "DOI",
+      "asserted-by": "crossref"
+     }
+    ]
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "J. Geophys. Res."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2012,
+     10
+    ]
+   ]
+  },
+  "DOI": "10.1029/2012jb009209",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2012,
+     8,
+     28
+    ]
+   ],
+   "date-time": "2012-08-28T12:25:44Z",
+   "timestamp": 1346156744000
+  },
+  "source": "Crossref",
+  "is-referenced-by-count": 170,
+  "title": [
+   "Nucleation and arrest of dynamic slip on a pressurized fault"
+  ],
+  "prefix": "10.1029",
+  "volume": "117",
+  "author": [
+   {
+    "given": "Dmitry I.",
+    "family": "Garagash",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Leonid N.",
+    "family": "Germanovich",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "13",
+  "published-online": {
+   "date-parts": [
+    [
+     2012,
+     10,
+     26
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "e_1_2_15_2_1",
+    "volume-title": "Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables",
+    "author": "Abramowitz M.",
+    "year": "1972"
+   },
+   {
+    "key": "e_1_2_15_3_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/1998GL900124"
+   },
+   {
+    "key": "e_1_2_15_4_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2007JB005082"
+   },
+   {
+    "key": "e_1_2_15_5_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/170GM25"
+   },
+   {
+    "key": "e_1_2_15_6_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB081i020p03575"
+   },
+   {
+    "key": "e_1_2_15_7_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2002JB001942"
+   },
+   {
+    "key": "e_1_2_15_8_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/96JB00411"
+   },
+   {
+    "key": "e_1_2_15_9_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2007JB004988"
+   },
+   {
+    "key": "e_1_2_15_10_1",
+    "unstructured": "1968 Academic New York B. Bilby J. Eshelby H. Liebowitz Dislocations and the theory of fracture 99 182"
+   },
+   {
+    "key": "e_1_2_15_11_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2005JB003862"
+   },
+   {
+    "key": "e_1_2_15_12_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2005JB003864"
+   },
+   {
+    "key": "e_1_2_15_13_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB074i015p03821"
+   },
+   {
+    "key": "e_1_2_15_14_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/97JB01508"
+   },
+   {
+    "key": "e_1_2_15_15_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2011GL048487"
+   },
+   {
+    "key": "e_1_2_15_16_1",
+    "volume-title": "Conduction of Heat in Solids",
+    "author": "Carslaw H.",
+    "year": "1959"
+   },
+   {
+    "key": "e_1_2_15_17_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/S0040-1951(98)00121-8"
+   },
+   {
+    "key": "e_1_2_15_18_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/92JB01866"
+   },
+   {
+    "key": "e_1_2_15_19_1",
+    "first-page": "199",
+    "volume-title": "Rheology and Deformation in the Lithosphere at Continental Margins",
+    "author": "Chester F. M.",
+    "year": "2004"
+   },
+   {
+    "key": "e_1_2_15_20_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s000240050093"
+   },
+   {
+    "key": "e_1_2_15_21_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/S0012-821X(00)00055-8"
+   },
+   {
+    "key": "e_1_2_15_22_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1785/gssrl.80.5.784"
+   },
+   {
+    "key": "e_1_2_15_23_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s00161-010-0144-y"
+   },
+   {
+    "key": "e_1_2_15_24_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB084iB05p02161"
+   },
+   {
+    "key": "e_1_2_15_25_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0040-1951(92)90055-B"
+   },
+   {
+    "key": "e_1_2_15_26_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/nature09838"
+   },
+   {
+    "key": "e_1_2_15_27_1",
+    "unstructured": "1973 Noordhoff Int. Leyden Netherlands F. Erdogan G. D. Gupta T. S. Cook Numerical solution of singular integral equations 368 425"
+   },
+   {
+    "key": "e_1_2_15_28_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2011JB008889"
+   },
+   {
+    "key": "e_1_2_15_29_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2001JB001653"
+   },
+   {
+    "issue": "52",
+    "key": "e_1_2_15_30_1",
+    "article-title": "A thermal technique of fault nucleation, growth, and slip",
+    "volume": "90",
+    "author": "Garagash D. I.",
+    "year": "2009",
+    "journal-title": "Eos Trans. AGU"
+   },
+   {
+    "key": "e_1_2_15_31_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/S002211201000501X"
+   },
+   {
+    "key": "e_1_2_15_32_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-94-017-0081-8_17"
+   },
+   {
+    "key": "e_1_2_15_33_1",
+    "unstructured": "Germanovich L. N. L. C.Murdoch D. I.Garagash Z.Reches S. J.Martel D.Gwaba D.Ellsworth R. P.Lowell andT. C.Onstott(2010) A controllable earthquake rupture experiment on the Homestake fault Abstract H13F‐1045 presented at 2010 Fall Meeting AGU San Francisco Calif. 13–17 Dec."
+   },
+   {
+    "key": "e_1_2_15_34_1",
+    "unstructured": "Germanovich L. N. L. C.Murdoch D. I.Garagash Z.Reches S. J.Martel D.Gwaba D.Ellsworth andT. C.Onstott(2011) Earthquake rupture experiment on the Homestake fault paper presented at 2011 Engineering Research and Innovation Conference Natl. Sci. Found. Atlanta."
+   },
+   {
+    "key": "e_1_2_15_35_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1680/geot.1991.41.1.49"
+   },
+   {
+    "key": "e_1_2_15_36_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB084iB05p02348"
+   },
+   {
+    "key": "e_1_2_15_37_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.161.3848.1301"
+   },
+   {
+    "issue": "3",
+    "key": "e_1_2_15_38_1",
+    "first-page": "731",
+    "article-title": "The Denver earthquakes of 1967–1968",
+    "volume": "71",
+    "author": "Herrmann R. B.",
+    "year": "1981",
+    "journal-title": "Bull. Seismol. Soc. Am."
+   },
+   {
+    "key": "e_1_2_15_39_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB086iB02p00903"
+   },
+   {
+    "key": "e_1_2_15_40_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1130/0016-7606(1959)70[115:ROFPIM]2.0.CO;2"
+   },
+   {
+    "key": "e_1_2_15_41_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB077i020p03796"
+   },
+   {
+    "key": "e_1_2_15_42_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/1998JB900090"
+   },
+   {
+    "key": "e_1_2_15_43_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-1-4612-3968-0"
+   },
+   {
+    "key": "e_1_2_15_44_1",
+    "doi-asserted-by": "crossref",
+    "unstructured": "King F. W.(2009) Hilbert Transforms vol.I Cambridge Univ. Press Cambridge U. K.",
+    "DOI": "10.1017/CBO9780511735271"
+   },
+   {
+    "key": "e_1_2_15_45_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB085iB11p06097"
+   },
+   {
+    "key": "e_1_2_15_46_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB085iB11p06185"
+   },
+   {
+    "issue": "46",
+    "key": "e_1_2_15_47_1",
+    "article-title": "Low‐heat and low‐stress fault operation in earthquake models of statically strong but dynamically weak faults",
+    "volume": "84",
+    "author": "Lapusta N.",
+    "year": "2003",
+    "journal-title": "Eos Trans. AGU"
+   },
+   {
+    "key": "e_1_2_15_48_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2000JB900250"
+   },
+   {
+    "key": "e_1_2_15_49_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1146/annurev.earth.26.1.643"
+   },
+   {
+    "key": "e_1_2_15_50_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF00876327"
+   },
+   {
+    "key": "e_1_2_15_51_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/96JB03185"
+   },
+   {
+    "key": "e_1_2_15_52_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-94-009-9994-7"
+   },
+   {
+    "key": "e_1_2_15_53_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2008JB006143"
+   },
+   {
+    "key": "e_1_2_15_54_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1098/rspa.1991.0060"
+   },
+   {
+    "key": "e_1_2_15_55_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB086iB09p07855"
+   },
+   {
+    "issue": "52",
+    "key": "e_1_2_15_56_1",
+    "article-title": "Strain localization within a fluid‐saturated fault gouge layer during seismic shear",
+    "volume": "90",
+    "author": "Platt J.",
+    "year": "2010",
+    "journal-title": "Eos Trans. AGU"
+   },
+   {
+    "key": "e_1_2_15_57_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.191.4233.1230"
+   },
+   {
+    "key": "e_1_2_15_58_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2006JB004314"
+   },
+   {
+    "key": "e_1_2_15_59_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2008JB005649"
+   },
+   {
+    "key": "e_1_2_15_60_1",
+    "unstructured": "1968 Academic New York J. R. Rice H. Liebowitz Mathematical analysis in the mechanics of fracture 191 311"
+   },
+   {
+    "key": "e_1_2_15_61_1",
+    "first-page": "555",
+    "volume-title": "Physics of the Earth's Interior",
+    "author": "Rice J. R.",
+    "year": "1980"
+   },
+   {
+    "key": "e_1_2_15_62_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/S0074-6142(08)62835-1"
+   },
+   {
+    "key": "e_1_2_15_63_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2005JB004006"
+   },
+   {
+    "key": "e_1_2_15_64_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s10704‐010‐9478‐5"
+   },
+   {
+    "key": "e_1_2_15_65_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2005JB003686"
+   },
+   {
+    "key": "e_1_2_15_66_1",
+    "unstructured": "1999 A.A. Balkema Rotterdam Netherlands J. W. Rudnicki G. Vouille P. Berest Alteration of regional stress by reservoirs and other inhomogeneities: Stabilizing or destabilizing? 1629 1637"
+   },
+   {
+    "key": "e_1_2_15_67_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB088iB12p10359"
+   },
+   {
+    "key": "e_1_2_15_68_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF00876536"
+   },
+   {
+    "key": "e_1_2_15_69_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1785/012003257"
+   },
+   {
+    "key": "e_1_2_15_70_1",
+    "volume-title": "The Mechanics of Earthquakes and Faulting",
+    "author": "Scholz C. H.",
+    "year": "1990"
+   },
+   {
+    "key": "e_1_2_15_71_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1130/0091-7613(1989)017<0942:ETBFE>2.3.CO;2"
+   },
+   {
+    "key": "e_1_2_15_72_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/95JB02403"
+   },
+   {
+    "key": "e_1_2_15_73_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2005JB004129"
+   },
+   {
+    "key": "e_1_2_15_74_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.epsl.2004.12.027"
+   },
+   {
+    "key": "e_1_2_15_75_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/PL00012560"
+   },
+   {
+    "key": "e_1_2_15_76_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2005GL024659"
+   },
+   {
+    "key": "e_1_2_15_77_1",
+    "first-page": "66",
+    "article-title": "Interaction between temperature and fluid pressure during earthquake faulting—A mechanism for partial or total stress relief",
+    "volume": "243",
+    "author": "Sibson R.",
+    "year": "1973",
+    "journal-title": "Nature"
+   },
+   {
+    "key": "e_1_2_15_78_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/GM037p0157"
+   },
+   {
+    "key": "e_1_2_15_79_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0040-1951(92)90065-E"
+   },
+   {
+    "key": "e_1_2_15_80_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2003GL018918"
+   },
+   {
+    "key": "e_1_2_15_81_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB091iB09p09452"
+   },
+   {
+    "key": "e_1_2_15_82_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2001JB001681"
+   },
+   {
+    "key": "e_1_2_15_83_1",
+    "unstructured": "Viesca R. C.(2011) The near and far of pore pressure during landslide and earthquake ruptures PhD thesis Harvard Univ. Cambridge Mass."
+   },
+   {
+    "key": "e_1_2_15_84_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2011JB008866"
+   },
+   {
+    "key": "e_1_2_15_85_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB089iB13p11539"
+   },
+   {
+    "key": "e_1_2_15_86_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.2118/13224-PA"
+   },
+   {
+    "key": "e_1_2_15_87_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1186/BF03353317"
+   },
+   {
+    "key": "e_1_2_15_88_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/S0191-8141(02)00014-7"
+   },
+   {
+    "key": "e_1_2_15_89_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/GM037p0001"
+   },
+   {
+    "key": "e_1_2_15_90_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/96JB02484"
+   },
+   {
+    "key": "e_1_2_15_91_1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/96JB02814"
+   }
+  ],
+  "container-title": [
+   "Journal of Geophysical Research: Solid Earth"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2012JB009209",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "text-mining"
+   },
+   {
+    "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2012JB009209",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2023,
+     10,
+     30
+    ]
+   ],
+   "date-time": "2023-10-30T22:05:38Z",
+   "timestamp": 1698703538000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2012JB009209"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2012,
+     10
+    ]
+   ]
+  },
+  "references-count": 90,
+  "journal-issue": {
+   "issue": "B10",
+   "published-print": {
+    "date-parts": [
+     [
+      2012,
+      10
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "10.1029/2012JB009209"
+  ],
+  "URL": "https://doi.org/10.1029/2012jb009209",
+  "archive": [
+   "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+   "0148-0227"
+  ],
+  "issn-type": [
+   {
+    "value": "0148-0227",
+    "type": "print"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2012,
+     10
+    ]
+   ]
+  },
+  "article-number": "2012JB009209"
+ }
+}

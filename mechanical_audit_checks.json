@@ -1,0 +1,73 @@
+{
+  "scope": "Independent exterior singular-integral evaluations and exact toy-load checks; no theorem-prover verification",
+  "python": "3.12.11",
+  "scipy": "1.17.0",
+  "square_root_cap": [
+    {
+      "a": 1.0,
+      "r": 1.2,
+      "direct_half_laplacian": -0.5224459395510717,
+      "closed_form": -0.5224459395510725,
+      "absolute_error": 8.881784197001252e-16
+    },
+    {
+      "a": 1.0,
+      "r": 2.0,
+      "direct_half_laplacian": -0.05375149359132692,
+      "closed_form": -0.053751493591327026,
+      "absolute_error": 1.0408340855860843e-16
+    },
+    {
+      "a": 2.0,
+      "r": 3.0,
+      "direct_half_laplacian": -0.16469953477294938,
+      "closed_form": -0.16469953477294952,
+      "absolute_error": 1.3877787807814457e-16
+    }
+  ],
+  "polynomial_load_exterior": [
+    {
+      "r": 1.3,
+      "direct_elastic_traction": -0.1999420876450194,
+      "cap_superposition_traction": -0.19994208764501945,
+      "friction_gap": 0.49005791235498075,
+      "eq36_rhs": 0.4900579123576961,
+      "max_abs_error": 2.7153279624769766e-12
+    },
+    {
+      "r": 1.7,
+      "direct_elastic_traction": -0.048655047380559806,
+      "cap_superposition_traction": -0.04865504738055977,
+      "friction_gap": 1.8413449526194399,
+      "eq36_rhs": 1.8413449526219905,
+      "max_abs_error": 2.5506263767738346e-12
+    },
+    {
+      "r": 3.0,
+      "direct_elastic_traction": -0.006476152158308908,
+      "cap_superposition_traction": -0.006476152158308905,
+      "friction_gap": 7.993523847841691,
+      "eq36_rhs": 7.993523847837845,
+      "max_abs_error": 3.845812557301542e-12
+    }
+  ],
+  "gaussian_finite_volume_B": [
+    {
+      "t": 1.1,
+      "B": 1.4237807258241215,
+      "B_derivative": -1.9418401634250597
+    },
+    {
+      "t": 10.0,
+      "B": 0.32421374946528303,
+      "B_derivative": -0.01705156730273172
+    },
+    {
+      "t": 1000.0,
+      "B": 0.0316303697907685,
+      "B_derivative": -1.5822781809449182e-05
+    }
+  ],
+  "elapsed_seconds": 0.3667829589685425,
+  "exit_status": 0
+}

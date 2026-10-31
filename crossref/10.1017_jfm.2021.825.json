@@ -1,0 +1,567 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     13
+    ]
+   ],
+   "date-time": "2026-10-13T04:12:11Z",
+   "timestamp": 1791864731485,
+   "version": "4.3.4"
+  },
+  "reference-count": 57,
+  "publisher": "Cambridge University Press (CUP)",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2021,
+       10,
+       12
+      ]
+     ],
+     "date-time": "2021-10-12T00:00:00Z",
+     "timestamp": 1633996800000
+    },
+    "content-version": "unspecified",
+    "delay-in-days": 0,
+    "URL": "https://www.cambridge.org/core/terms"
+   }
+  ],
+  "funder": [
+   {
+    "DOI": "10.13039/100000001",
+    "name": "National Science Foundation",
+    "doi-asserted-by": "publisher",
+    "award": [
+     "1653382"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "1653382"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100000001",
+      "id-type": "DOI",
+      "asserted-by": "publisher"
+     }
+    ]
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "cambridge.org"
+   ],
+   "crossmark-restriction": true
+  },
+  "short-container-title": [
+   "J. Fluid Mech."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2021,
+     12,
+     10
+    ]
+   ]
+  },
+  "DOI": "10.1017/jfm.2021.825",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2021,
+     10,
+     12
+    ]
+   ],
+   "date-time": "2021-10-12T23:58:06Z",
+   "timestamp": 1634083086000
+  },
+  "update-policy": "https://doi.org/10.1017/policypage",
+  "source": "Crossref",
+  "is-referenced-by-count": 24,
+  "title": [
+   "Self-similar fault slip in response to fluid injection"
+  ],
+  "prefix": "10.1017",
+  "volume": "928",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-4180-7807",
+    "authenticated-orcid": false,
+    "given": "Robert C.",
+    "family": "Viesca",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "56",
+  "published-online": {
+   "date-parts": [
+    [
+     2021,
+     10,
+     12
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "S0022112021008259_ref55",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2011JB008866"
+   },
+   {
+    "key": "S0022112021008259_ref32",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/nag.2405"
+   },
+   {
+    "key": "S0022112021008259_ref28",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/S0022112090001288"
+   },
+   {
+    "key": "S0022112021008259_ref30",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.111.154501"
+   },
+   {
+    "key": "S0022112021008259_ref44",
+    "unstructured": "Rice, J.R. 1973 The initiation and growth of shear bands. In Proceedings of the Symposium on the Role of Plasticity in Soil Mechanics (ed. A.C. Palmer), vol. 2, pp. 263–274. Cambridge University Department of Engineering."
+   },
+   {
+    "key": "S0022112021008259_ref37",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2008JB006143"
+   },
+   {
+    "key": "S0022112021008259_ref50",
+    "first-page": "F03007",
+    "article-title": "A model for turbulent hydraulic fracture and application to crack propagation at glacier beds",
+    "volume": "114",
+    "author": "Tsai",
+    "year": "2010",
+    "journal-title": "J. Geophys. Res."
+   },
+   {
+    "key": "S0022112021008259_ref16",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2012JB009209"
+   },
+   {
+    "key": "S0022112021008259_ref46",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1146/annurev.ea.23.050195.001443"
+   },
+   {
+    "key": "S0022112021008259_ref21",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevLett.93.137802"
+   },
+   {
+    "key": "S0022112021008259_ref18",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.161.3848.1301"
+   },
+   {
+    "key": "S0022112021008259_ref17",
+    "doi-asserted-by": "crossref",
+    "first-page": "149",
+    "DOI": "10.1007/s10596-015-9554-z",
+    "article-title": "Discrete fracture model for coupled flow and geomechanics",
+    "volume": "20",
+    "author": "Garipov",
+    "year": "2016",
+    "journal-title": "Comput. Geosci."
+   },
+   {
+    "key": "S0022112021008259_ref12",
+    "doi-asserted-by": "crossref",
+    "first-page": "713",
+    "DOI": "10.1017/S0956792504005753",
+    "article-title": "Moving boundary and fixed-domain problems for a sixth-order thin-film equation",
+    "volume": "15",
+    "author": "Flitton",
+    "year": "2004",
+    "journal-title": "Eur. J. Appl. Maths"
+   },
+   {
+    "key": "S0022112021008259_ref15",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1115/1.321162"
+   },
+   {
+    "key": "S0022112021008259_ref2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1103/PhysRevFluids.3.074101"
+   },
+   {
+    "key": "S0022112021008259_ref8",
+    "doi-asserted-by": "crossref",
+    "first-page": "39",
+    "DOI": "10.1098/rspa.1994.0127",
+    "article-title": "The crack tip region in hydraulic fracturing",
+    "volume": "447",
+    "author": "Desroches",
+    "year": "1994",
+    "journal-title": "Proc. R. Soc. Lond. A"
+   },
+   {
+    "key": "S0022112021008259_ref1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.engfracmech.2008.04.006"
+   },
+   {
+    "key": "S0022112021008259_ref56",
+    "doi-asserted-by": "crossref",
+    "first-page": "e2020JB021258",
+    "DOI": "10.1029/2020JB021258",
+    "article-title": "Effect of porosity and permeability evolution on injection-induced aseismic slip",
+    "volume": "126",
+    "author": "Yang",
+    "year": "2021",
+    "journal-title": "J. Geophys. Res."
+   },
+   {
+    "key": "S0022112021008259_ref36",
+    "volume-title": "Singular Integral Equations",
+    "author": "Mushkhelishvili",
+    "year": "1958"
+   },
+   {
+    "key": "S0022112021008259_ref39",
+    "doi-asserted-by": "crossref",
+    "first-page": "299",
+    "DOI": "10.1130/0091-7613(2001)029<0299:ATLPOD>2.0.CO;2",
+    "article-title": "Are the lower planes of double seismic zones caused by serpentine dehydration in subducting oceanic mantle?",
+    "volume": "29",
+    "author": "Peacock",
+    "year": "2001",
+    "journal-title": "Geology"
+   },
+   {
+    "key": "S0022112021008259_ref48",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2010JB008035"
+   },
+   {
+    "key": "S0022112021008259_ref43",
+    "unstructured": "Rice, J.R. 1968 Mathematical analysis in the mechanics of fracture. In Fracture (ed. H. Liebowitz), vol. 2, chap. 3, pp. 191–311, Academic."
+   },
+   {
+    "key": "S0022112021008259_ref3",
+    "first-page": "475",
+    "article-title": "On the formation of horizontal cracks in hydraulic fracture of an oil-bearing stratum",
+    "volume": "20",
+    "author": "Barenblatt",
+    "year": "1956",
+    "journal-title": "Prikl. Mat. Mekh."
+   },
+   {
+    "key": "S0022112021008259_ref38",
+    "doi-asserted-by": "crossref",
+    "first-page": "527",
+    "DOI": "10.1098/rspa.1973.0040",
+    "article-title": "The growth of slip surfaces in the progressive failure of over-consolidated clay",
+    "volume": "332",
+    "author": "Palmer",
+    "year": "1973",
+    "journal-title": "Proc. R. Soc. Lond. A"
+   },
+   {
+    "key": "S0022112021008259_ref14",
+    "first-page": "20200129",
+    "article-title": "Fracture mechanics of rate-and-state faults and fluid injection induced slip",
+    "volume": "379",
+    "author": "Garagash",
+    "year": "2021",
+    "journal-title": "Phil. Trans. R. Soc. Lond. A"
+   },
+   {
+    "key": "S0022112021008259_ref13",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2011JB008889"
+   },
+   {
+    "key": "S0022112021008259_ref11",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-94-017-2260-5_7"
+   },
+   {
+    "key": "S0022112021008259_ref9",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1146/annurev-fluid-010814-014736"
+   },
+   {
+    "key": "S0022112021008259_ref31",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/jfm.2019.185"
+   },
+   {
+    "key": "S0022112021008259_ref7",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2018JB016636"
+   },
+   {
+    "key": "S0022112021008259_ref20",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/CBO9781139172189"
+   },
+   {
+    "key": "S0022112021008259_ref29",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/S0022112090000696"
+   },
+   {
+    "key": "S0022112021008259_ref25",
+    "volume-title": "Hilbert Transforms",
+    "volume": "1 & 2",
+    "author": "King",
+    "year": "2009"
+   },
+   {
+    "key": "S0022112021008259_ref22",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2013WR015175"
+   },
+   {
+    "key": "S0022112021008259_ref47",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.enconman.2007.01.021"
+   },
+   {
+    "key": "S0022112021008259_ref23",
+    "unstructured": "Khristianovic, S.A. & Zheltov, Y.P. 1955 Formation of vertical fractures by means of highly viscous fluid. In Proceedings of the 4th World Petroleum Congress (ed. A. Barbier), vol. 1, pp. 579–586. World Petroleum Council."
+   },
+   {
+    "key": "S0022112021008259_ref53",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/ngeo2554"
+   },
+   {
+    "key": "S0022112021008259_ref42",
+    "first-page": "1199",
+    "article-title": "The growth of shear bands in the catastrophic failure of soils",
+    "volume": "461",
+    "author": "Puzrin",
+    "year": "2005",
+    "journal-title": "Proc. R. Soc. Lond. A"
+   },
+   {
+    "key": "S0022112021008259_ref6",
+    "first-page": "B02203",
+    "article-title": "Modeling the growth of laccoliths and large mafic sills: role of magma body forces",
+    "volume": "116",
+    "author": "Bunger",
+    "year": "2011",
+    "journal-title": "J. Geophys. Res."
+   },
+   {
+    "key": "S0022112021008259_ref40",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/jfm.2020.745"
+   },
+   {
+    "key": "S0022112021008259_ref49",
+    "doi-asserted-by": "crossref",
+    "first-page": "289",
+    "DOI": "10.1098/rspa.1985.0081",
+    "article-title": "Self-similar solutions for elastohydrodynamic cavity flow",
+    "volume": "400",
+    "author": "Spence",
+    "year": "1985",
+    "journal-title": "Proc. R. Soc. Lond. A"
+   },
+   {
+    "key": "S0022112021008259_ref26",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0022-5096(95)00026-F"
+   },
+   {
+    "key": "S0022112021008259_ref45",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2005JB004006"
+   },
+   {
+    "key": "S0022112021008259_ref41",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2015JB012200"
+   },
+   {
+    "key": "S0022112021008259_ref51",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1115/1.4039044"
+   },
+   {
+    "key": "S0022112021008259_ref4",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aaw7354"
+   },
+   {
+    "key": "S0022112021008259_ref33",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1201/9781420036114"
+   },
+   {
+    "key": "S0022112021008259_ref57",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1038/s41467-020-18598-z"
+   },
+   {
+    "key": "S0022112021008259_ref5",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Brantut, N. 2021 Dilatancy toughening of shear cracks and implications for slow rupture propagation. arXiv:2104.06475.",
+    "DOI": "10.5194/egusphere-egu22-2865"
+   },
+   {
+    "key": "S0022112021008259_ref10",
+    "doi-asserted-by": "crossref",
+    "first-page": "103672",
+    "DOI": "10.1016/j.jmps.2019.07.015",
+    "article-title": "Fluid driven shear cracks on a strengthening rate-and-state frictional fault",
+    "volume": "132",
+    "author": "Dublanchet",
+    "year": "2019",
+    "journal-title": "J. Mech. Phys. Solids"
+   },
+   {
+    "key": "S0022112021008259_ref52",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1115/1.4011454"
+   },
+   {
+    "key": "S0022112021008259_ref34",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB084iB07p03519"
+   },
+   {
+    "key": "S0022112021008259_ref35",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2010JB008108"
+   },
+   {
+    "key": "S0022112021008259_ref54",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jmps.2018.01.008"
+   },
+   {
+    "key": "S0022112021008259_ref24",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.278.5341.1278"
+   },
+   {
+    "key": "S0022112021008259_ref19",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/S0956792514000291"
+   },
+   {
+    "key": "S0022112021008259_ref27",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2016JF004183"
+   }
+  ],
+  "container-title": [
+   "Journal of Fluid Mechanics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0022112021008259",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2023,
+     1,
+     11
+    ]
+   ],
+   "date-time": "2023-01-11T22:39:04Z",
+   "timestamp": 1673476744000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.cambridge.org/core/product/identifier/S0022112021008259/type/journal_article"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2021,
+     10,
+     12
+    ]
+   ]
+  },
+  "references-count": 57,
+  "alternative-id": [
+   "S0022112021008259"
+  ],
+  "URL": "https://doi.org/10.1017/jfm.2021.825",
+  "relation": {},
+  "ISSN": [
+   "0022-1120",
+   "1469-7645"
+  ],
+  "issn-type": [
+   {
+    "value": "0022-1120",
+    "type": "print"
+   },
+   {
+    "value": "1469-7645",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2021,
+     10,
+     12
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "© The Author(s), 2021. Published by Cambridge University Press",
+    "name": "copyright",
+    "label": "Copyright",
+    "group": {
+     "name": "copyright_and_licensing",
+     "label": "Copyright and Licensing"
+    }
+   }
+  ],
+  "article-number": "A29"
+ }
+}

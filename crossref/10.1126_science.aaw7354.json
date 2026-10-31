@@ -1,0 +1,553 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     10,
+     30
+    ]
+   ],
+   "date-time": "2026-10-30T00:34:11Z",
+   "timestamp": 1793320451243,
+   "version": "4.5.0"
+  },
+  "reference-count": 57,
+  "publisher": "American Association for the Advancement of Science (AAAS)",
+  "issue": "6439",
+  "funder": [
+   {
+    "DOI": "10.13039/100000001",
+    "name": "National Science Foundation",
+    "doi-asserted-by": "publisher",
+    "award": [
+     "EAR-1653382"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "EAR-1653382"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100000001",
+      "id-type": "DOI",
+      "asserted-by": "publisher"
+     }
+    ]
+   },
+   {
+    "DOI": "10.13039/100000203",
+    "name": "U.S. Geological Survey",
+    "doi-asserted-by": "publisher",
+    "award": [
+     "G17AP00016"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "G17AP00016"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100000203",
+      "id-type": "DOI",
+      "asserted-by": "publisher"
+     }
+    ]
+   },
+   {
+    "DOI": "10.13039/100011510",
+    "name": "Southern California Earthquake Center",
+    "doi-asserted-by": "publisher",
+    "award": [
+     "18043"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "18043"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100011510",
+      "id-type": "DOI",
+      "asserted-by": "publisher"
+     }
+    ]
+   }
+  ],
+  "content-domain": {
+   "domain": [],
+   "crossmark-restriction": false
+  },
+  "short-container-title": [
+   "Science"
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     3
+    ]
+   ]
+  },
+  "DOI": "10.1126/science.aaw7354",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     2
+    ]
+   ],
+   "date-time": "2019-05-02T19:09:11Z",
+   "timestamp": 1556824151000
+  },
+  "page": "464-468",
+  "source": "Crossref",
+  "is-referenced-by-count": 273,
+  "title": [
+   "Fluid-induced aseismic fault slip outpaces pore-fluid migration"
+  ],
+  "prefix": "10.1126",
+  "volume": "364",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-4779-1236",
+    "authenticated-orcid": true,
+    "given": "Pathikrit",
+    "family": "Bhattacharya",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Civil and Environmental Engineering, Tufts University, Medford, MA 02155, USA."
+     },
+     {
+      "name": "School of Earth, Ocean, and Climate Sciences, Indian Institute of Technology Bhubaneswar, Argul, Odisha 752050, India."
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-4180-7807",
+    "authenticated-orcid": true,
+    "given": "Robert C.",
+    "family": "Viesca",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Civil and Environmental Engineering, Tufts University, Medford, MA 02155, USA."
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "221",
+  "reference": [
+   {
+    "key": "e_1_3_2_2_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1785/gssrl.83.2.250"
+   },
+   {
+    "key": "e_1_3_2_3_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aab1345"
+   },
+   {
+    "key": "e_1_3_2_4_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.1255802"
+   },
+   {
+    "key": "e_1_3_2_5_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.ijrmms.2007.06.003"
+   },
+   {
+    "key": "e_1_3_2_6_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1785/gssrl.80.5.784"
+   },
+   {
+    "key": "e_1_3_2_7_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aat2010"
+   },
+   {
+    "key": "e_1_3_2_8_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aat6081"
+   },
+   {
+    "key": "e_1_3_2_9_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aat5449"
+   },
+   {
+    "key": "e_1_3_2_10_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1111/j.1365-246X.1997.tb01215.x"
+   },
+   {
+    "key": "e_1_3_2_11_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2017JB014850"
+   },
+   {
+    "key": "e_1_3_2_12_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1190/1.1451597"
+   },
+   {
+    "key": "e_1_3_2_13_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0148-9062(94)90902-4"
+   },
+   {
+    "key": "e_1_3_2_14_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s000240050093"
+   },
+   {
+    "key": "e_1_3_2_15_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.gete.2015.12.003"
+   },
+   {
+    "key": "e_1_3_2_16_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aab0476"
+   },
+   {
+    "key": "e_1_3_2_17_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.epsl.2015.03.054"
+   },
+   {
+    "key": "e_1_3_2_18_2",
+    "doi-asserted-by": "crossref",
+    "first-page": "4945",
+    "DOI": "10.1038/s41598-017-04992-z",
+    "article-title": "The Pawnee earthquake as a result of the interplay among injection, faults and foreshocks",
+    "volume": "7",
+    "author": "Chen X.",
+    "year": "2017",
+    "unstructured": "X. Chen, N. Nakata, C. Pennington, J. Haffener, J. C. Chang, X. He, Z. Zhan, S. Ni, J. I. Walter, The Pawnee earthquake as a result of the interplay among injection, faults and foreshocks. Sci. Rep. 7, 4945 (2017). 28694472",
+    "journal-title": "Sci. Rep."
+   },
+   {
+    "key": "e_1_3_2_19_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.epsl.2017.05.011"
+   },
+   {
+    "key": "e_1_3_2_20_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2012JB009209"
+   },
+   {
+    "key": "e_1_3_2_22_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jsg.2012.10.010"
+   },
+   {
+    "key": "e_1_3_2_23_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2006GL026889"
+   },
+   {
+    "key": "e_1_3_2_24_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.1237237"
+   },
+   {
+    "key": "e_1_3_2_25_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/S0264-8172(00)00027-1"
+   },
+   {
+    "key": "e_1_3_2_26_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2017GL075506"
+   },
+   {
+    "key": "e_1_3_2_27_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2017GL076216"
+   },
+   {
+    "key": "e_1_3_2_28_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2015JB012158"
+   },
+   {
+    "key": "e_1_3_2_29_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0148-9062(70)90007-0"
+   },
+   {
+    "key": "e_1_3_2_30_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF01239627"
+   },
+   {
+    "key": "e_1_3_2_31_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/JB087iB02p00990"
+   },
+   {
+    "key": "e_1_3_2_32_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/sciadv.aap7528"
+   },
+   {
+    "key": "e_1_3_2_33_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2013JB010597"
+   },
+   {
+    "key": "e_1_3_2_34_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1130/0091-7613(1995)023<0683:FFAPAF>2.3.CO;2"
+   },
+   {
+    "key": "e_1_3_2_35_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1130/0091-7613(2000)28<399:HFKTCS>2.0.CO;2"
+   },
+   {
+    "key": "e_1_3_2_36_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/1999GL011068"
+   },
+   {
+    "key": "e_1_3_2_37_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/97JB02675"
+   },
+   {
+    "key": "e_1_3_2_38_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.278.5339.834"
+   },
+   {
+    "key": "e_1_3_2_39_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/S0040-1951(97)00075-9"
+   },
+   {
+    "key": "e_1_3_2_40_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/1998JB900007"
+   },
+   {
+    "key": "e_1_3_2_41_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/sciadv.aau4065"
+   },
+   {
+    "key": "e_1_3_2_42_2",
+    "unstructured": "P. Bhattacharya pathikrit-bhattacharya/MCMC_fortran_library: FortMcMc_v1. Zenodo (2019);.10.5281/zenodo.2631455"
+   },
+   {
+    "key": "e_1_3_2_43_2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "E. Detournay A. H.-D. Cheng in Analysis and Design Methods C. Fairhurst Ed. (Pergamon Oxford 1993) pp. 113–171.",
+    "DOI": "10.1016/B978-0-08-040615-2.50011-3"
+   },
+   {
+    "key": "e_1_3_2_44_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/BF00046466"
+   },
+   {
+    "key": "e_1_3_2_45_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/0022-3719/10/4/007"
+   },
+   {
+    "key": "e_1_3_2_46_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0020-7683(88)90028-5"
+   },
+   {
+    "key": "e_1_3_2_47_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1090/qam/408277"
+   },
+   {
+    "key": "e_1_3_2_48_2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "F. Erdogan G. D. Gupta T. S. Cook Methods of Analysis and Solutions of Crack Problems (Springer 1973) pp. 368–425.",
+    "DOI": "10.1007/978-94-017-2260-5_7"
+   },
+   {
+    "key": "e_1_3_2_49_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2011JB008866"
+   },
+   {
+    "key": "e_1_3_2_50_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jmps.2018.01.008"
+   },
+   {
+    "key": "e_1_3_2_51_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/2015JB012437"
+   },
+   {
+    "key": "e_1_3_2_52_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1063/1.1699114"
+   },
+   {
+    "key": "e_1_3_2_53_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1093/biomet/57.1.97"
+   },
+   {
+    "key": "e_1_3_2_54_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1046/j.1365-246X.2002.01847.x"
+   },
+   {
+    "key": "e_1_3_2_55_2",
+    "unstructured": "W. H. Press S. A. Teukolsky W. T. Vetterling B. P. Flannery Numerical recipes in Fortran 90: The Art of Parallel Scientific Computing (Cambridge Univ. Press ed. 2 1996)."
+   },
+   {
+    "key": "e_1_3_2_56_2",
+    "unstructured": "Y. Bai “Convergence of adaptive Markov Chain Monte Carlo algorithms ” thesis University of Toronto (2009)."
+   },
+   {
+    "key": "e_1_3_2_57_2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/s11222-006-6966-6"
+   },
+   {
+    "key": "e_1_3_2_58_2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "G. I. Barenblatt “The mathematical theory of equilibrium cracks in brittle fracture ” in Advances in Applied Mechanics H. L. Dryden T. von Kármán G. Kuerti F. H. van den Dungen L. Howarth Eds. (Elsevier 1962) pp. 55–129.",
+    "DOI": "10.1016/S0065-2156(08)70121-2"
+   },
+   {
+    "key": "e_1_3_2_59_2",
+    "doi-asserted-by": "crossref",
+    "unstructured": "B. Lawn Fracture of Brittle Solids (Cambridge Univ. Press ed. 2 1993).",
+    "DOI": "10.1017/CBO9780511623127"
+   }
+  ],
+  "container-title": [
+   "Science"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://syndication.highwire.org/content/doi/10.1126/science.aaw7354",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "syndication"
+   },
+   {
+    "URL": "https://www.science.org/doi/pdf/10.1126/science.aaw7354",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2024,
+     1,
+     15
+    ]
+   ],
+   "date-time": "2024-01-15T19:37:08Z",
+   "timestamp": 1705347428000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.science.org/doi/10.1126/science.aaw7354"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     3
+    ]
+   ]
+  },
+  "references-count": 57,
+  "journal-issue": {
+   "issue": "6439",
+   "published-print": {
+    "date-parts": [
+     [
+      2019,
+      5,
+      3
+     ]
+    ]
+   }
+  },
+  "alternative-id": [
+   "10.1126/science.aaw7354"
+  ],
+  "URL": "https://doi.org/10.1126/science.aaw7354",
+  "relation": {},
+  "ISSN": [
+   "0036-8075",
+   "1095-9203"
+  ],
+  "issn-type": [
+   {
+    "value": "0036-8075",
+    "type": "print"
+   },
+   {
+    "value": "1095-9203",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2019,
+     5,
+     3
+    ]
+   ]
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+  "exterior_cap_traction": [
+    {
+      "r": 1.1,
+      "real_space": -0.6627735397374382,
+      "formula": -0.6627735397374582,
+      "absolute_error": 1.9984014443252818e-14
+    },
+    {
+      "r": 1.7,
+      "real_space": -0.06271853344556481,
+      "formula": -0.0627185334455649,
+      "absolute_error": 8.326672684688674e-17
+    },
+    {
+      "r": 3.0,
+      "real_space": -0.00873218310048976,
+      "formula": -0.008732183100491045,
+      "absolute_error": 1.285430095698814e-15
+    }
+  ],
+  "exterior_complementarity_identity": [
+    {
+      "r": 1.1,
+      "direct_gap": 0.6605513168431727,
+      "identity_gap": 0.6605513168453777,
+      "absolute_error": 2.2050139492080234e-12
+    },
+    {
+      "r": 2.0,
+      "direct_gap": 4.98732001959871,
+      "identity_gap": 4.987320019594222,
+      "absolute_error": 4.487965554744733e-12
+    },
+    {
+      "r": 5.0,
+      "direct_gap": 36.499302977426886,
+      "identity_gap": 36.499302977369624,
+      "absolute_error": 5.7262639074906474e-11
+    }
+  ],
+  "limiting_transfer_identity": [
+    {
+      "r": 0.3,
+      "s": 0.1,
+      "laplace_ratio": 0.9549758217337818,
+      "positive_mixture": 0.9549758217337821,
+      "absolute_error": 3.3306690738754696e-16
+    },
+    {
+      "r": 1.0,
+      "s": 1.0,
+      "laplace_ratio": 0.6316167624079806,
+      "positive_mixture": 0.6316167624079806,
+      "absolute_error": 0.0
+    },
+    {
+      "r": 2.7,
+      "s": 10.0,
+      "laplace_ratio": 0.10012898753673377,
+      "positive_mixture": 0.10012898753673101,
+      "absolute_error": 2.761679773755077e-15
+    }
+  ],
+  "arcsine_centre_residuals": [
+    {
+      "t": 1.01,
+      "H": 2.220446049250313e-16
+    },
+    {
+      "t": 1.7,
+      "H": 0.0
+    },
+    {
+      "t": 10.0,
+      "H": 0.0
+    },
+    {
+      "t": 100.0,
+      "H": -1.3877787807814457e-17
+    }
+  ],
+  "one_recomputed_taper_case": {
+    "t": 1.5193169237762547,
+    "R": 5.551394626401341,
+    "centre": 8.284861685581291e-11,
+    "at_0_2_R": 0.7887182744326594
+  },
+  "linear_threshold": {
+    "d": 0.3535533905932738,
+    "H_at_endpoint": -1.1102230246251565e-16,
+    "H_1percent_above": -0.007071067811865617
+  }
+}

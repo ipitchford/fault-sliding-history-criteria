@@ -1,0 +1,98 @@
+{
+ "schemaVersion": "1.0",
+ "release": "fault-sliding-history-criteria",
+ "version": "0.1.0-candidate",
+ "doi": "10.5281/zenodo.23838529",
+ "conceptDoi": "10.5281/zenodo.23838528",
+ "creator": "Anonymous",
+ "status": "unrefereed candidate",
+ "model": "Circular fluid-driven frictional rupture of Sáez, Lecampion, Bhattacharya and Viesca (2022): planar homogeneous permeable fault layer with linear pressure diffusion (diffusivity alpha) from a point source or a fixed Gaussian source of width parameter epsilon; zero Poisson ratio; uniform constant friction f; zero fracture energy; uniform positive strength excess tau_d = f sigma'_0 - tau_0; one-way coupling from pressure to slip; crack radius R(t) from the zero-stress-intensity condition f A p(R,t) = tau_d; injection rate q(t) >= 0.",
+ "definitions": {
+  "fullSliding": "the trial (circular) slip rate is nonnegative at every point of the disk",
+  "centreMargin": "C(t): the centre slip rate of the trial branch divided by the positive factor 4 f c_p/(pi mu), equation (13)",
+  "lossOfFullSliding": "the first negative crossing of the centre margin (or, for a point source, a downward rate jump); a zero alone is threshold contact"
+ },
+ "claims": [
+  {
+   "id": "C1",
+   "kind": "theorem",
+   "location": "Theorem 1, Corollary 3.1, Proposition 3.3",
+   "statement": "For a point source, a Gaussian source or any positive mixture of Gaussian widths and a single-peaked (rise-then-fall) injection rate, at any time with a positive crack radius, the slip rate is nonnegative throughout the disk if and only if the centre margin is nonnegative; strictly so off the centre under a measure condition. The trajectory form requires the centre test at every time from the start of slip.",
+   "evidence": "written proof (Lemma 2, Appendix A); verify_kernel_order.py, verify_fault_criterion.py"
+  },
+  {
+   "id": "C2",
+   "kind": "theorem",
+   "location": "Theorems A and B, Proposition 4.1, Appendix B",
+   "statement": "Point source, piecewise-C^1 rate with positive initial rate or a nondecreasing start: full sliding holds throughout (0,T] (away from jump times) if and only if the centre margin has stayed nonnegative there; the crack radius then exists and strictly increases; any downward jump before T ends full sliding at once; within these startup classes and with no downward jump before the contact, full sliding is first lost at the centre.",
+   "evidence": "written proof; history_extension_checks.py, verify_multipeak_example.py"
+  },
+  {
+   "id": "C3",
+   "kind": "theorem",
+   "location": "Theorem G, Appendix C",
+   "statement": "Gaussian source, piecewise-C^1 rate with jumps of either sign, nonnegative latent forcing before slip starts and transverse nucleation: the same equivalence and centre-first conclusion as C2 from nucleation onward.",
+   "evidence": "written proof; history_extension_checks.py"
+  },
+  {
+   "id": "C4",
+   "kind": "proposition",
+   "location": "Section 5.1, equation (26); Table 1",
+   "statement": "After a constant-rate stage of duration T with a Gaussian source, an abrupt relative drop j/q0 ends full sliding exactly when it exceeds the kernel ratio K_R(0,T+eps)/K_R(0,eps), bounded above by sqrt(eps/(T+eps)); about 1e-3 at wellbore scale for illustrative parameters.",
+   "evidence": "written proof; regime_and_taper_checks.py"
+  },
+  {
+   "id": "C5",
+   "kind": "proposition",
+   "location": "Section 6, Proposition 6.1",
+   "statement": "The constructed trial branch satisfies the friction inequality outside the disk; in a stated variational forward-slip class it is unique up to first failure for the Gaussian source (admissibility but not uniqueness claimed for the point source).",
+   "evidence": "written proof; mechanical_audit_checks.py, reviewer_checks.py"
+  },
+  {
+   "id": "C6",
+   "kind": "theorem",
+   "location": "Theorem 3, Section 7.1",
+   "statement": "Inner (critically stressed, Theta -> 0) limit, point source, bounded-variation history: the slip rate at radius r is the centre slip rate delayed by a random diffusive first-passage time (probability measure Lambda_r), so a nonnegative centre history is necessary and sufficient for full sliding.",
+   "evidence": "written proof; reviewer_checks.py"
+  },
+  {
+   "id": "C7",
+   "kind": "proposition",
+   "location": "Propositions 7.2 and 7.3",
+   "statement": "Uniform finite-radius error bound with constant 4 alpha s*/R and a two-term centre margin A_* Hq(t) - (2 alpha/R) q(t-) with rigorous remainder (16 c_D alpha^2/(3R^3)) int (t-s)|dq|, using numerically verified bounds s* <= 0.6424 and c_D <= 0.4115.",
+   "evidence": "written proof with numerically verified constants; constants_and_two_term.py"
+  },
+  {
+   "id": "C8",
+   "kind": "proposition",
+   "location": "Proposition 8.2",
+   "statement": "After shut-in at t_s with injected volume V (either source, startup as Theorem A or G), no crack exists after t_s + f c_p V/tau_d - eps, and full sliding is lost before then; after a constant-rate stage of duration T this is T(1 + 1/Theta) - eps.",
+   "evidence": "written proof; regime_and_taper_checks.py"
+  },
+  {
+   "id": "C9",
+   "kind": "corollary",
+   "location": "Corollary 8.4, Section 8.1",
+   "statement": "Point source, constant first stage followed by a linear taper: in the inner limit the admissible taper depth is at most (1/2) sqrt(L/(T+L)) < 1/2, and strictly smaller at every finite radius; hence no linear taper can halve the rate without loss of full sliding. The arcsine continuation is the slowest admissible continuation in the inner limit.",
+   "evidence": "written proof; regime_and_taper_checks.py, verify_fault_criterion.py"
+  }
+ ],
+ "numericalOnly": [
+  "Finite-radius taper thresholds d_max(Theta) and taper roots (finite-window estimates, Tables 2-3)",
+  "Leading-order taper formula (54) (approximation, error below 0.033 Theta for Theta <= 0.1 on the computed grid)",
+  "Two-dip, stepped Gaussian, upward-jump and multi-peak examples (Section 9.3)",
+  "Annular-source time history (numerical evidence of off-centre reversal)",
+  "Dimensional example (illustrative parameters)"
+ ],
+ "counterexamples": [
+  "The pairwise radial order (total positivity in (r,u)) is false (Section 9.4)",
+  "An instantaneous centre test is not sufficient for general histories (Section 9.4)",
+  "An annular source violates the age order and the centre-first property (Section 9.4)"
+ ],
+ "scopeLimits": [
+  "Zero Poisson ratio, constant friction, zero fracture energy, homogeneous layer, one-way coupling",
+  "First loss of full sliding only; no claim about the later slip pulse or seismic hazard",
+  "Gaussian histories with decreasing centre pressure before nucleation are open",
+  "Point-source results are elastic statements on r > 0"
+ ]
+}

@@ -1,0 +1,4 @@
+Local clean replay (31 October 2026): macOS 27 (arm64), CPython 3.12.11 virtual environment with numpy 2.3.5, scipy 1.17.0, matplotlib 3.10.8 (requirements.txt), from a fresh extraction of the frozen release archive.
+Runner: python3 -I -B run_checks.py (runs each check script with -I -O -B; explicit checks, no assert; nonzero exit on any failure).
+CI: GitHub Actions ubuntu-latest, Python 3.12 (.github/workflows/replay.yml): SHA256SUMS, full runner, comparison of regenerated JSON outputs with the retained ones.
+PDF: pandoc 3.9 with citeproc, pdfTeX (TeX Live), three passes (build_documents.sh).

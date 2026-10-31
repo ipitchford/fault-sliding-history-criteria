@@ -1,0 +1,11 @@
+{
+  "seed": 1234,
+  "planned": 1200,
+  "counts": {
+    "centre_first": 776,
+    "no_failure": 424,
+    "candidate": 0
+  },
+  "examples": [],
+  "elapsed_seconds": 11.801853852000022
+}

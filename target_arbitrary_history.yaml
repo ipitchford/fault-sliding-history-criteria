@@ -1,0 +1,65 @@
+target_id: arbitrary-history-point-source-historical-centre
+search_date: 2026-10-28
+intended_contribution_unit: theorem
+claim:
+  exact_statement: |
+    Let alpha, Delta, f, c_p, mu be positive. Let q belong to C^1([0,T]),
+    q>=0, with q extended by zero before time zero. Assume either q(0)=q0>0,
+    or q(0)=0 with q nondecreasing on some initial [0,t_start] and
+    q(t)>0 for every t in (0,t_start].
+    Use the point-source pressure and zero-SIF circular trial branch of the
+    manuscript. Assume its unique positive radius R(t) exists on (0,T].
+    Then all trial slip velocities are nonnegative for every r<R(t) and
+    every t in (0,T] if and only if the centre criterion C(t)>=0 for all
+    t in (0,T]. Whenever these equivalent conditions hold, every noncentral
+    interior velocity and the edge-normalised velocity is strictly positive,
+    and R'(t)>0 throughout (0,T]. Earlier tangential centre zeros are allowed.
+    Consequently the first threshold contact occurs only at the centre,
+    and any first loss of forward-slip admissibility is detected by the
+    first negative centre value, even after earlier tangential contacts.
+  exclusions:
+    - Does not replace the whole-history condition by an instantaneous centre test after earlier negative centre velocities.
+    - This target is for the point source; target_gaussian_startup.yaml separately treats Gaussian sources under monotone prebirth central pressure and transverse nucleation.
+    - Does not cover zero-initial-rate histories with arbitrarily early reversals of q'.
+    - Does not determine post-locking pulse propagation or seismic hazard.
+    - Does not claim novelty of Kaluza/Jurkat-style inverse-positivity principles or standard Volterra resolvent theory.
+source:
+  originating_reference: "Saez, Passelègue and Lecampion (2025), Science Advances 11 eadq0662, discussion after equation 24"
+  url: "https://francoispasselegue.github.io/FXP-Webpage/alexis2025.pdf"
+normalisation:
+  indices: "Time starts at the positive initial rate jump q0 or at a monotone positive ramp from zero; point-source ages u=t-s>0. Auxiliary epsilon shifts only kernels, while R remains the point-source radius."
+  scaling: "K_R(r,u)=2 sqrt(alpha/u) integral_r^R D(a/(2sqrt(alpha u)))/sqrt(a^2-r^2) da; physical velocity multiplier 4 f c_p/(pi mu)."
+  basis_order: "Chronological input increments; earlier increments are to the left of later ones."
+  symmetries: [axisymmetric_radius, positive_rescaling_of_all_rates_and_stress_deficit]
+sequences:
+  - name: centre-product-distribution moments
+    exact_values: ["1", "2/9", "8/75", "16/245", "128/2835"]
+    natural_scalings: ["Inherited kernel fingerprint from target_kernel_order.yaml; no novelty claimed for moments."]
+generating_functions:
+  - name: centre Laplace transform in reciprocal age
+    expression: "M0(lambda) = 2F2(1,1/2;3/2,3/2;-lambda)"
+    variables: [lambda]
+matrices: []
+aliases:
+  analysis: [nonconvolution_Volterra_equation, first_kind_inverse_positivity, log_convex_kernel, total_positivity, Dawson_integral_ratio]
+  probability: [positive_causal_transfer, Laplace_transform_ratio_order, Gaussian_semigroup, single_crossing]
+  combinatorics: [Kaluza_sign_criterion, Jurkat_coefficient_ratio_theorem]
+  mathematical_physics: [circular_shear_crack, first_locking, point_source_diffusion, unilateral_friction]
+  statistics_optimisation_ml: [positive_linear_input_output_system, chronological_signed_measure]
+known_invariants:
+  centre_complete_monotonicity: "K_R(0,u)=2 alpha integral_0^infinity exp(-alpha u k^2) Si(kR) dk"
+  mixed_log_slope: "partial_R log K_R(0,u) = [D(z)/G(z)]/R, z=R/(2sqrt(alpha u)), G(z)=integral_0^z D(x)/x dx"
+  radius_age_order: "D/G strictly decreases, hence partial_R partial_u log K_R(0,u)>0"
+  edge_kernel: "J_R(u)=D(z)/(u z); J_R(u)/K_R(0,u)=[D(z)/G(z)]/R"
+  nonfinite_target: "The target is a continuum kernel theorem; finite-matrix identity is not the asserted object."
+  startup_regularisation: "No initial lower bound on prescribed R is needed: h(v) A(v,s) <= z(v) permits Tonelli and dominated convergence even if h alone is not integrable near R(0)=0."
+  early_transfer_mass: "For s<d<=v<=t, A(v,s)/A(v,d) is nondecreasing in v; subtracting transfer identities forces positive transfer mass into every initial interval containing a positive startup comparator. This yields strict edge positivity despite intervening centre zeros and closes the first-edge-zero bootstrap."
+search_constraints:
+  primary_sources_only_for_technical_claims: true
+  databases_or_corpora: [publisher_primary_papers, arxiv, author_manuscripts, recorded_web_search]
+gate_status: "BOUNDED UNCERTAINTY: final formula-level and primary-source checks completed in extension_novelty_audit.md; no exact geological predecessor found within that boundary; generic inverse positivity and row scaling are classical."
+gate_references:
+  - "Existing target.yaml, target_kernel_order.yaml, and geological novelty report"
+  - "Jurkat (1954), Questions of signs in power series; reported by independent novelty scout"
+  - "Baricz, Vesti and Vuorinen (2011), On Kaluza's sign criterion for reciprocal power series, DOI 10.2478/v10062-011-0009-2"
+  - "Gripenberg (1980), On Volterra equations of the first kind, DOI 10.1007/BF01702311"

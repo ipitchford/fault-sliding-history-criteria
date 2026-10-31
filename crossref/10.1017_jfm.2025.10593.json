@@ -1,0 +1,510 @@
+{
+ "status": "ok",
+ "message-type": "work",
+ "message-version": "1.0.0",
+ "message": {
+  "indexed": {
+   "date-parts": [
+    [
+     2026,
+     9,
+     3
+    ]
+   ],
+   "date-time": "2026-09-03T03:29:59Z",
+   "timestamp": 1788406199641,
+   "version": "build-2803163510"
+  },
+  "reference-count": 45,
+  "publisher": "Cambridge University Press (CUP)",
+  "license": [
+   {
+    "start": {
+     "date-parts": [
+      [
+       2025,
+       9,
+       17
+      ]
+     ],
+     "date-time": "2025-09-17T00:00:00Z",
+     "timestamp": 1758067200000
+    },
+    "content-version": "unspecified",
+    "delay-in-days": 0,
+    "URL": "https://www.cambridge.org/core/terms"
+   }
+  ],
+  "funder": [
+   {
+    "DOI": "10.13039/100000001",
+    "name": "National Science Foundation",
+    "doi-asserted-by": "publisher",
+    "award": [
+     "1653382"
+    ],
+    "award-info": [
+     {
+      "award-number": [
+       "1653382"
+      ]
+     }
+    ],
+    "id": [
+     {
+      "id": "10.13039/100000001",
+      "id-type": "DOI",
+      "asserted-by": "publisher"
+     }
+    ]
+   }
+  ],
+  "content-domain": {
+   "domain": [
+    "cambridge.org"
+   ],
+   "crossmark-restriction": true
+  },
+  "short-container-title": [
+   "J. Fluid Mech."
+  ],
+  "published-print": {
+   "date-parts": [
+    [
+     2025,
+     9,
+     25
+    ]
+   ]
+  },
+  "DOI": "10.1017/jfm.2025.10593",
+  "type": "journal-article",
+  "created": {
+   "date-parts": [
+    [
+     2025,
+     9,
+     17
+    ]
+   ],
+   "date-time": "2025-09-17T06:08:21Z",
+   "timestamp": 1758089301000
+  },
+  "update-policy": "https://doi.org/10.1017/policypage",
+  "source": "Crossref",
+  "is-referenced-by-count": 2,
+  "title": [
+   "Asymptotic solutions for self-similarly expanding fault slip induced by fluid injection at constant rate"
+  ],
+  "prefix": "10.1017",
+  "volume": "1019",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-4180-7807",
+    "authenticated-orcid": false,
+    "given": "Robert C.",
+    "family": "Viesca",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Tufts University"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "member": "56",
+  "published-online": {
+   "date-parts": [
+    [
+     2025,
+     9,
+     17
+    ]
+   ]
+  },
+  "reference": [
+   {
+    "key": "S0022112025105934_ref34",
+    "doi-asserted-by": "crossref",
+    "first-page": "153",
+    "DOI": "10.1007/BF00046466",
+    "article-title": "Elastic fields of a dislocation loop in a two-phase material",
+    "volume": "1",
+    "author": "Salamon",
+    "year": "1971",
+    "journal-title": "J. Elasticity"
+   },
+   {
+    "key": "S0022112025105934_ref28",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.abb0779"
+   },
+   {
+    "key": "S0022112025105934_ref14",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1785/0220190248"
+   },
+   {
+    "key": "S0022112025105934_ref41",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0001-6160(87)90015-0"
+   },
+   {
+    "key": "S0022112025105934_ref23",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2024JB030601"
+   },
+   {
+    "key": "S0022112025105934_ref33",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/sciadv.adq0662"
+   },
+   {
+    "key": "S0022112025105934_ref26",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1002/nag.2405"
+   },
+   {
+    "key": "S0022112025105934_ref25",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/jfm.2019.185"
+   },
+   {
+    "key": "S0022112025105934_ref4",
+    "doi-asserted-by": "crossref",
+    "unstructured": "Berrios-Rivera, N. , Ozawa, S. & Dunham, E.M. 2025 Models of fluid-induced seismic slip with permeability enhancement and rate-and-state friction. ESS Open Archive. Available at: https://essopenarchive.org/doi/full/10.22541/essoar.175357075.53109087/v1.",
+    "DOI": "10.22541/essoar.175357075.53109087/v1"
+   },
+   {
+    "key": "S0022112025105934_ref42",
+    "first-page": "B03104",
+    "article-title": "Nucleation of slip-weakening rupture instability in landslides by localized increase of pore pressure",
+    "volume": "117",
+    "author": "Viesca",
+    "year": "2012",
+    "journal-title": "J. Geophys. Res."
+   },
+   {
+    "key": "S0022112025105934_ref3",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1007/978-1-4757-3069-2"
+   },
+   {
+    "key": "S0022112025105934_ref17",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.ijsolstr.2005.10.009"
+   },
+   {
+    "key": "S0022112025105934_ref19",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1785/gssrl.80.1.119"
+   },
+   {
+    "key": "S0022112025105934_ref32",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1098/rspa.2022.0810"
+   },
+   {
+    "key": "S0022112025105934_ref30",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0020-7683(91)90229-9"
+   },
+   {
+    "key": "S0022112025105934_ref31",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jmps.2021.104754"
+   },
+   {
+    "key": "S0022112025105934_ref36",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/S0020-7683(02)00492-4"
+   },
+   {
+    "key": "S0022112025105934_ref37",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0022-5096(77)90006-0"
+   },
+   {
+    "key": "S0022112025105934_ref11",
+    "doi-asserted-by": "crossref",
+    "first-page": "205",
+    "DOI": "10.1016/0022-5096(76)90003-X",
+    "article-title": "Matched asymptotic expansions in nonlinear fracture mechanics – I. Longitudinal shear of an elastic perfectly-plastic specimen",
+    "volume": "24",
+    "author": "Edmunds",
+    "year": "1976",
+    "journal-title": "J. Mech. Phys. Solids"
+   },
+   {
+    "key": "S0022112025105934_ref6",
+    "first-page": "387",
+    "article-title": "Crack problems in a poroelastic medium: an asymptotic approach",
+    "volume": "346",
+    "author": "Craster",
+    "year": "1994",
+    "journal-title": "Proc. R. Soc. Lond. A"
+   },
+   {
+    "key": "S0022112025105934_ref15",
+    "doi-asserted-by": "crossref",
+    "first-page": "183",
+    "DOI": "10.1115/1.321162",
+    "article-title": "The tip region of a fluid-driven fracture in an elastic medium",
+    "volume": "67",
+    "author": "Garagash",
+    "year": "2000",
+    "journal-title": "J. Appl. Mech."
+   },
+   {
+    "key": "S0022112025105934_ref21",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1785/0220240382"
+   },
+   {
+    "key": "S0022112025105934_ref29",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0022-5096(91)90003-7"
+   },
+   {
+    "key": "S0022112025105934_ref43",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/jfm.2021.825"
+   },
+   {
+    "key": "S0022112025105934_ref5",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0022-5096(92)90008-P"
+   },
+   {
+    "key": "S0022112025105934_ref8",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jmps.2019.07.015"
+   },
+   {
+    "key": "S0022112025105934_ref16",
+    "doi-asserted-by": "crossref",
+    "first-page": "916",
+    "DOI": "10.1115/1.2047596",
+    "article-title": "Plane-strain propagation of a fluid-driven fracture: small toughness solution",
+    "volume": "72",
+    "author": "Garagash",
+    "year": "2005",
+    "journal-title": "J. Appl. Mech"
+   },
+   {
+    "key": "S0022112025105934_ref9",
+    "doi-asserted-by": "crossref",
+    "first-page": "20230255",
+    "DOI": "10.1098/rsta.2023.0255",
+    "article-title": "Fluid-driven aseismic fault slip with permeability enhancement and dilatancy",
+    "volume": "382",
+    "author": "Dunham",
+    "year": "2024",
+    "journal-title": "Phil. Trans. R. Soc. A: Math. Phys. Eng. Sci."
+   },
+   {
+    "key": "S0022112025105934_ref22",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1029/2022GL101228"
+   },
+   {
+    "key": "S0022112025105934_ref39",
+    "volume-title": "Fourier Transforms",
+    "author": "Sneddon",
+    "year": "1951"
+   },
+   {
+    "key": "S0022112025105934_ref27",
+    "first-page": "555",
+    "volume-title": "Physics of the Earth’s Interior",
+    "author": "Rice",
+    "year": "1980"
+   },
+   {
+    "key": "S0022112025105934_ref13",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0022-5096(77)90028-X"
+   },
+   {
+    "key": "S0022112025105934_ref20",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/CBO9781139172189"
+   },
+   {
+    "key": "S0022112025105934_ref2",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1126/science.aaw7354"
+   },
+   {
+    "key": "S0022112025105934_ref7",
+    "doi-asserted-by": "crossref",
+    "first-page": "39",
+    "DOI": "10.1098/rspa.1994.0127",
+    "article-title": "The crack tip region in hydraulic fracturing",
+    "volume": "447",
+    "author": "Desroches",
+    "year": "1994",
+    "journal-title": "Proc. R. Soc. Lond. A"
+   },
+   {
+    "key": "S0022112025105934_ref45",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/j.jmps.2023.105506"
+   },
+   {
+    "key": "S0022112025105934_ref35",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1088/0022-3719/10/4/007"
+   },
+   {
+    "key": "S0022112025105934_ref44",
+    "first-page": "1009",
+    "article-title": "A semi-infinite crack parallel to the boundary of the elastic half-plane",
+    "volume": "31",
+    "author": "Zlatin",
+    "year": "1986",
+    "journal-title": "Sov. Dokl. Phys."
+   },
+   {
+    "key": "S0022112025105934_ref24",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1017/S0022112090000696"
+   },
+   {
+    "key": "S0022112025105934_ref40",
+    "doi-asserted-by": "crossref",
+    "first-page": "289",
+    "DOI": "10.1098/rspa.1985.0081",
+    "article-title": "Self-similar solutions for elastohydrodynamic cavity flow",
+    "volume": "400",
+    "author": "Spence",
+    "year": "1985",
+    "journal-title": "Proc. R. Soc. Lond. A"
+   },
+   {
+    "key": "S0022112025105934_ref38",
+    "doi-asserted-by": "crossref",
+    "first-page": "5322",
+    "DOI": "10.1029/JB081i029p05322",
+    "article-title": "The stabilization of spreading shear faults by coupled deformation-diffusion effects in fluid-infiltrated porous materials",
+    "volume": "81",
+    "author": "Simons",
+    "year": "1976",
+    "journal-title": "J. Geophys. Res."
+   },
+   {
+    "key": "S0022112025105934_ref18",
+    "first-page": "B10310",
+    "article-title": "Nucleation and arrest of dynamic slip on a pressurized fault",
+    "volume": "117",
+    "author": "Garagash",
+    "year": "2012",
+    "journal-title": "J. Geophys. Res."
+   },
+   {
+    "key": "S0022112025105934_ref1",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1093/imamat/52.3.221"
+   },
+   {
+    "key": "S0022112025105934_ref12",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/0022-5096(76)90004-1"
+   },
+   {
+    "key": "S0022112025105934_ref10",
+    "doi-asserted-by": "publisher",
+    "DOI": "10.1016/S0020-7683(99)00063-3"
+   }
+  ],
+  "container-title": [
+   "Journal of Fluid Mechanics"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+   {
+    "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0022112025105934",
+    "content-type": "unspecified",
+    "content-version": "vor",
+    "intended-application": "similarity-checking"
+   }
+  ],
+  "deposited": {
+   "date-parts": [
+    [
+     2025,
+     9,
+     17
+    ]
+   ],
+   "date-time": "2025-09-17T06:08:24Z",
+   "timestamp": 1758089304000
+  },
+  "score": 1,
+  "resource": {
+   "primary": {
+    "URL": "https://www.cambridge.org/core/product/identifier/S0022112025105934/type/journal_article"
+   }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+   "date-parts": [
+    [
+     2025,
+     9,
+     17
+    ]
+   ]
+  },
+  "references-count": 45,
+  "alternative-id": [
+   "S0022112025105934"
+  ],
+  "URL": "https://doi.org/10.1017/jfm.2025.10593",
+  "relation": {},
+  "ISSN": [
+   "0022-1120",
+   "1469-7645"
+  ],
+  "issn-type": [
+   {
+    "value": "0022-1120",
+    "type": "print"
+   },
+   {
+    "value": "1469-7645",
+    "type": "electronic"
+   }
+  ],
+  "subject": [],
+  "published": {
+   "date-parts": [
+    [
+     2025,
+     9,
+     17
+    ]
+   ]
+  },
+  "assertion": [
+   {
+    "value": "© The Author(s), 2025. Published by Cambridge University Press",
+    "name": "copyright",
+    "label": "Copyright",
+    "group": {
+     "name": "copyright_and_licensing",
+     "label": "Copyright and Licensing"
+    }
+   }
+  ],
+  "article-number": "A27"
+ }
+}

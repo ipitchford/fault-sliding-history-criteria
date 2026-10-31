@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this versioned research candidate by its DOI."
+title: "Scalar history criteria for the first loss of full sliding under variable fluid injection"
+type: software
+authors:
+  - name: Anonymous
+version: 0.1.0-candidate
+doi: 10.5281/zenodo.23838529
+date-released: 2026-10-31
+repository-code: "https://github.com/ipitchford/fault-sliding-history-criteria"
+url: "https://evidencepress.org/releases/fault-sliding-history-criteria/"
+license:
+  - CC0-1.0
+  - MIT
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23838529
+    description: "Version DOI (0.1.0-candidate)"
+  - type: doi
+    value: 10.5281/zenodo.23838528
+    description: "Concept DOI (all versions)"
+keywords:
+  - fluid injection
+  - aseismic slip
+  - fault mechanics
+  - induced seismicity
+abstract: "In the circular constant-friction model of fluid-driven aseismic slip, the slip-rate history at the injection point decides when full sliding is first lost: an instantaneous criterion for rise-then-fall rates, historical criteria for multi-peak and stepped rates under stated startup conditions, centre-first loss, and explicit consequences (drop tolerance, two-term finite-radius criterion, shut-in deadline, no linear taper halves the rate for a point source). Unrefereed candidate; internal AI-assisted review only. Text and data CC0-1.0; code MIT."

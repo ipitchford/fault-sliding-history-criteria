@@ -1,0 +1,182 @@
+[
+  {
+    "path": "fixed",
+    "radius_fraction": 0.1,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 3.8971786861825e-05,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 4.440892098500626e-16
+  },
+  {
+    "path": "fixed",
+    "radius_fraction": 0.5,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.0006531377233056297,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 4.440892098500626e-16
+  },
+  {
+    "path": "fixed",
+    "radius_fraction": 0.9,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.000701866424297164,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 2.220446049250313e-16
+  },
+  {
+    "path": "linear_increase",
+    "radius_fraction": 0.1,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.00042077991822944466,
+    "negative_weights": 0,
+    "min_index": 10,
+    "max_reconstruction_error": 8.881784197001252e-16
+  },
+  {
+    "path": "linear_increase",
+    "radius_fraction": 0.5,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.004319360493348654,
+    "negative_weights": 0,
+    "min_index": 11,
+    "max_reconstruction_error": 4.440892098500626e-16
+  },
+  {
+    "path": "linear_increase",
+    "radius_fraction": 0.9,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.002930705818569222,
+    "negative_weights": 0,
+    "min_index": 13,
+    "max_reconstruction_error": 2.220446049250313e-16
+  },
+  {
+    "path": "sqrt_birth",
+    "radius_fraction": 0.1,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.00031072574591775956,
+    "negative_weights": 0,
+    "min_index": 7,
+    "max_reconstruction_error": 8.881784197001252e-16
+  },
+  {
+    "path": "sqrt_birth",
+    "radius_fraction": 0.5,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.0032775117785439315,
+    "negative_weights": 0,
+    "min_index": 7,
+    "max_reconstruction_error": 4.440892098500626e-16
+  },
+  {
+    "path": "sqrt_birth",
+    "radius_fraction": 0.9,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.002326788955015026,
+    "negative_weights": 0,
+    "min_index": 8,
+    "max_reconstruction_error": 2.220446049250313e-16
+  },
+  {
+    "path": "rapid_late_increase",
+    "radius_fraction": 0.1,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.0015906374110749276,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 1.7763568394002505e-15
+  },
+  {
+    "path": "rapid_late_increase",
+    "radius_fraction": 0.5,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.011967791647021329,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 4.440892098500626e-16
+  },
+  {
+    "path": "rapid_late_increase",
+    "radius_fraction": 0.9,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 0.004857398615727339,
+    "negative_weights": 0,
+    "min_index": 41,
+    "max_reconstruction_error": 1.1102230246251565e-16
+  },
+  {
+    "path": "linear_decrease",
+    "radius_fraction": 0.1,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 8.036250502600169e-07,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 2.220446049250313e-16
+  },
+  {
+    "path": "linear_decrease",
+    "radius_fraction": 0.5,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 1.702574797412257e-05,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 2.220446049250313e-16
+  },
+  {
+    "path": "linear_decrease",
+    "radius_fraction": 0.9,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 2.615520115127598e-05,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 4.440892098500626e-16
+  },
+  {
+    "path": "rapid_late_collapse",
+    "radius_fraction": 0.1,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 1.529276802135556e-07,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 2.220446049250313e-16
+  },
+  {
+    "path": "rapid_late_collapse",
+    "radius_fraction": 0.5,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 3.2891584264217224e-06,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 2.220446049250313e-16
+  },
+  {
+    "path": "rapid_late_collapse",
+    "radius_fraction": 0.9,
+    "epsilon": 0.04,
+    "N": 48,
+    "minimum_weight": 5.223062305398682e-06,
+    "negative_weights": 0,
+    "min_index": 0,
+    "max_reconstruction_error": 5.551115123125783e-17
+  }
+]
